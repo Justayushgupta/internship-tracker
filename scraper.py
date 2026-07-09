@@ -31,7 +31,36 @@ HEADERS = {
                   "(KHTML, like Gecko) Chrome/125.0 Safari/537.36"
 }
 
-INTERN_PATTERN = re.compile(r"intern|internship|trainee", re.IGNORECASE)
+INTERN_PATTERN = re.compile(r"\b(intern|internship|interns|trainee)\b", re.IGNORECASE)
+
+# Titles containing these are NOT suitable for a 3rd-year undergrad B.Tech
+# student (they require a PhD, Master's, or years of prior work experience).
+# Location does NOT matter here - international roles are fine.
+DISQUALIFYING_TERMS = re.compile(
+    r"\bphd\b|\bph\.d\b|doctoral|\bpostdoc\b|"
+    r"\bmaster'?s\b|\bmba\b|"
+    r"\bsenior\b|\bstaff\b|\bprincipal\b|\blead\b|\barchitect\b|"
+    r"\b\d+\+?\s*years?\b",  # e.g. "5+ years", "3 years experience"
+    re.IGNORECASE,
+)
+
+
+def looks_like_internship(title: str) -> bool:
+    """True only if title contains a real internship keyword. The \\b word
+    boundaries already correctly skip 'Internals' and 'International' since
+    'intern' isn't a whole word inside those - no extra exclusion needed."""
+    return bool(INTERN_PATTERN.search(title))
+
+
+def is_eligible_for_undergrad(title: str) -> bool:
+    """Filters out roles that need a PhD/Master's/senior-level experience -
+    not a fit for a 3rd-year B.Tech student. Location doesn't matter
+    (international is fine); only the seniority/degree requirement does."""
+    return not DISQUALIFYING_TERMS.search(title)
+
+
+def is_relevant(title: str) -> bool:
+    return looks_like_internship(title) and is_eligible_for_undergrad(title)
 
 
 def load_json(path, default):
@@ -56,7 +85,7 @@ def fetch_greenhouse(company):
     listings = {}
     for job in jobs:
         title = job.get("title", "")
-        if INTERN_PATTERN.search(title):
+        if is_relevant(title):
             listings[str(job["id"])] = {
                 "title": title,
                 "url": job.get("absolute_url", ""),
@@ -74,7 +103,7 @@ def fetch_lever(company):
     listings = {}
     for job in jobs:
         title = job.get("text", "")
-        if INTERN_PATTERN.search(title):
+        if is_relevant(title):
             job_id = job.get("id", title)
             listings[job_id] = {
                 "title": title,
@@ -96,7 +125,10 @@ def fetch_generic(company):
         text = a.get_text(strip=True)
         if not text:
             continue
-        if any(kw.lower() in text.lower() for kw in keywords):
+        extra_keyword_match = any(
+            kw.lower() in text.lower() for kw in keywords if kw.lower() not in ("intern",)
+        )
+        if (is_relevant(text)) or (extra_keyword_match and is_eligible_for_undergrad(text)):
             href = a.get("href", "")
             if href.startswith("/"):
                 # make relative links absolute
