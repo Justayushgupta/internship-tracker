@@ -1,55 +1,8 @@
 {
   "Razorpay": {},
   "Postman": {},
-  "Databricks": {
-    "7011263002": {
-      "title": "PhD GenAI Research Scientist Intern",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-      "location": "San Francisco, California"
-    },
-    "6544383002": {
-      "title": "Senior Software Engineer - Database Engine Internals",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002",
-      "location": "Mountain View, California"
-    },
-    "8012809002": {
-      "title": "Senior Software Engineer - Database Engine Internals",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002",
-      "location": "Belgrade, Serbia"
-    },
-    "5048461002": {
-      "title": "Senior Software Engineer - Database Engine Internals",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002",
-      "location": "San Francisco, California"
-    },
-    "8012658002": {
-      "title": "Software Engineer - Database Engine Internals",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012658002",
-      "location": "Belgrade, Serbia"
-    },
-    "6544386002": {
-      "title": " Staff Software Engineer - Database Engine Internals",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002",
-      "location": "Mountain View, California"
-    },
-    "8012818002": {
-      "title": "Staff Software Engineer - Database Engine Internals",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002",
-      "location": "Belgrade, Serbia"
-    },
-    "5646866002": {
-      "title": "Staff Software Engineer - Database Engine Internals",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002",
-      "location": "San Francisco, California"
-    }
-  },
-  "Robinhood": {
-    "7489427": {
-      "title": "Staff Product Manager, International Growth & Expansion",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/7489427?t=gh_src=&gh_jid=7489427",
-      "location": "London, UK"
-    }
-  },
+  "Databricks": {},
+  "Robinhood": {},
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
@@ -65,13 +18,7 @@
   "Qualcomm": {},
   "Uber": {},
   "Atlassian": {},
-  "PhonePe": {
-    "https://insurance.phonepe.com/travel-insurance/international-travel-insurance/": {
-      "title": "International Travel Insurance",
-      "url": "https://insurance.phonepe.com/travel-insurance/international-travel-insurance/",
-      "location": ""
-    }
-  },
+  "PhonePe": {},
   "Groww": {},
   "Zerodha": {},
   "CRED": {},
@@ -83,59 +30,16 @@
   "InMobi": {},
   "Freshworks": {},
   "Zoho": {},
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-International-Tax/355389": {
-      "title": "Senior, International Tax",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-International-Tax/355389",
-      "location": ""
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Manager-International-Tax/352378": {
-      "title": "Manager, International Tax",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Manager-International-Tax/352378",
-      "location": ""
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Manager-Internal-Tax-Team-Strategy-and-Planning/356988": {
-      "title": "Tax Manager, Internal Tax Team – Strategy and Planning",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Manager-Internal-Tax-Team-Strategy-and-Planning/356988",
-      "location": ""
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Manager-Internal-Controls-Lead-TS-SCI-w-Polygraph/350006": {
-      "title": "Project Manager, Internal Controls Lead (TS SCI w/ Polygraph)",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Manager-Internal-Controls-Lead-TS-SCI-w-Polygraph/350006",
-      "location": ""
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Director-Internal-Tax-Team-Federal-Direct-Tax/356801": {
-      "title": "Associate Director, Internal Tax Team – Federal Direct Tax",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Director-Internal-Tax-Team-Federal-Direct-Tax/356801",
-      "location": ""
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Manager-International-Tax/358380": {
-      "title": "Senior Manager, International Tax",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Manager-International-Tax/358380",
-      "location": ""
-    }
-  },
+  "Deloitte": {},
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
   "Capgemini": {},
   "Wipro": {},
   "HCLTech": {},
-  "EY": {
-    "https://careers.ey.com/ey/job/Mumbai-Senior-Consultant-Business-Consulting-Risk-National-Internal-Audit-Mumbai-MH-400028/1397111133/": {
-      "title": "Senior Consultant - Business Consulting Risk - National - Internal Audit - Mumbai",
-      "url": "https://careers.ey.com/ey/job/Mumbai-Senior-Consultant-Business-Consulting-Risk-National-Internal-Audit-Mumbai-MH-400028/1397111133/",
-      "location": ""
-    }
-  },
+  "EY": {},
   "PwC": {},
-  "KPMG": {
-    "https://kpmg.com/xx/en/about/kpmg-international-hotline.html": {
-      "title": "KPMG International hotline",
-      "url": "https://kpmg.com/xx/en/about/kpmg-international-hotline.html",
-      "location": ""
-    }
-  },
+  "KPMG": {},
   "ISRO": {
     "ISTRACRecruitment3.html": {
       "title": "Advt. No. ISTRAC:01:2026 dated June 22, 2026 - Recruitment to the posts of Graduate\r\n                                    Apprentice Trainee, Diploma Apprentice Trainee, Diploma in Commercial Practice and\r\n                                    Trade ITI in ISTRAC.Read More",
