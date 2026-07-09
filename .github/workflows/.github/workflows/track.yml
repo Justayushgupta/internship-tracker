@@ -2,8 +2,8 @@ name: Internship Tracker
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}      # allows manual "Run workflow" button too
 
 permissions:
   contents: write
@@ -41,4 +41,5 @@ jobs:
           git config user.email "actions@github.com"
           git add state.json
           git diff --quiet --cached || git commit -m "Update tracked listings [skip ci]"
+          git pull --rebase origin main
           git push
