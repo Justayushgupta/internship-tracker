@@ -30,23 +30,7 @@
   "Atlassian": {},
   "Dell Technologies": {},
   "HPE": {},
-  "ServiceNow": {
-    "https://careers.servicenow.com/jobs/744000130359664/intern-marketing-associate/": {
-      "title": "Intern - Marketing Associate",
-      "url": "https://careers.servicenow.com/jobs/744000130359664/intern-marketing-associate/",
-      "location": ""
-    },
-    "https://careers.servicenow.com/jobs/744000130359659/intern-marketing-associate/": {
-      "title": "Intern - Marketing Associate",
-      "url": "https://careers.servicenow.com/jobs/744000130359659/intern-marketing-associate/",
-      "location": ""
-    },
-    "https://careers.servicenow.com/jobs/744000134688699/product-success-analyst-intern/": {
-      "title": "Product Success Analyst Intern",
-      "url": "https://careers.servicenow.com/jobs/744000134688699/product-success-analyst-intern/",
-      "location": ""
-    }
-  },
+  "ServiceNow": {},
   "Walmart Global Tech": {},
   "Goldman Sachs": {},
   "Morgan Stanley": {},
@@ -87,13 +71,7 @@
   "Haptik": {},
   "Observe.AI": {},
   "Uniphore": {},
-  "Sprinklr": {
-    "https://www.sprinklr.com/careers/internship-and-early-careers/": {
-      "title": "Internship and Early Careers",
-      "url": "https://www.sprinklr.com/careers/internship-and-early-careers/",
-      "location": ""
-    }
-  },
+  "Sprinklr": {},
   "Gupshup": {},
   "Exotel": {},
   "Locus": {},
@@ -114,18 +92,7 @@
   "Practo": {},
   "CureFit (Cult.fit)": {},
   "Licious": {},
-  "UpGrad": {
-    "https://www.business-standard.com/companies/news/upgrad-commits-rs-200-cr-training-programme-for-pm-s-internship-scheme-124101700749_1.html": {
-      "title": "upGrad commits Rs 200 cr training programme for PM's internship schemeOct 17, 2024",
-      "url": "https://www.business-standard.com/companies/news/upgrad-commits-rs-200-cr-training-programme-for-pm-s-internship-scheme-124101700749_1.html",
-      "location": ""
-    },
-    "https://www.upgrad.com/internzip/": {
-      "title": "Free Internship Programs",
-      "url": "https://www.upgrad.com/internzip/",
-      "location": ""
-    }
-  },
+  "UpGrad": {},
   "Vedantu": {},
   "Unacademy": {},
   "PhysicsWallah": {},
@@ -175,13 +142,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/job/Singapore-Diploma-Student-Intern-117440/1410117533/": {
-      "title": "Diploma Student / Intern",
-      "url": "https://jobs.sap.com/job/Singapore-Diploma-Student-Intern-117440/1410117533/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
