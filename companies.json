@@ -1,50 +1,1766 @@
 [
-  { "name": "Razorpay", "type": "greenhouse", "board_token": "razorpaysoftwareprivatelimited" },
-  { "name": "Postman", "type": "greenhouse", "board_token": "postman" },
-  { "name": "Databricks", "type": "greenhouse", "board_token": "databricks" },
-  { "name": "Robinhood", "type": "greenhouse", "board_token": "robinhood" },
-  { "name": "Notion", "type": "greenhouse", "board_token": "notion" },
-  { "name": "Netflix", "type": "lever", "board_token": "netflix" },
-  { "name": "Cohere", "type": "lever", "board_token": "cohere" },
-
-  { "name": "Google", "type": "generic", "url": "https://www.google.com/about/careers/applications/jobs/results?target_level=INTERN_AND_APPRENTICE&location=India", "keywords": ["intern"] },
-  { "name": "Microsoft", "type": "generic", "url": "https://jobs.careers.microsoft.com/global/en/search?q=intern&lc=India", "keywords": ["intern"] },
-  { "name": "Amazon", "type": "generic", "url": "https://www.amazon.jobs/en/search?base_query=intern&loc_query=India", "keywords": ["intern"] },
-  { "name": "Adobe", "type": "generic", "url": "https://careers.adobe.com/us/en/search-results?keywords=intern%20india", "keywords": ["intern"] },
-  { "name": "NVIDIA", "type": "generic", "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=intern%20india", "keywords": ["intern"] },
-  { "name": "Salesforce", "type": "generic", "url": "https://careers.salesforce.com/en/jobs/?search=intern+india", "keywords": ["intern"] },
-  { "name": "Oracle", "type": "generic", "url": "https://careers.oracle.com/en/sites/jobsearch/jobs?keyword=intern%20india", "keywords": ["intern"] },
-  { "name": "Cisco", "type": "generic", "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?projectLocation=71390-Asia%20Pacific", "keywords": ["intern"] },
-  { "name": "IBM", "type": "generic", "url": "https://www.ibm.com/in-en/careers/search?field_keyword_18[0]=Intern&field_keyword_08[0]=India", "keywords": ["intern"] },
-  { "name": "Qualcomm", "type": "generic", "url": "https://qualcomm.wd5.myworkdayjobs.com/External?q=intern%20india", "keywords": ["intern"] },
-  { "name": "Uber", "type": "generic", "url": "https://www.uber.com/us/en/careers/list/?query=intern&location=IND", "keywords": ["intern"] },
-  { "name": "Atlassian", "type": "generic", "url": "https://www.atlassian.com/company/careers/all-jobs?team=&location=india&search=intern", "keywords": ["intern"] },
-
-  { "name": "PhonePe", "type": "generic", "url": "https://www.phonepe.com/careers/job-openings/?search=intern", "keywords": ["intern"] },
-  { "name": "Groww", "type": "generic", "url": "https://groww.in/careers", "keywords": ["intern"] },
-  { "name": "Zerodha", "type": "generic", "url": "https://zerodha.com/jobs/", "keywords": ["intern"] },
-  { "name": "CRED", "type": "generic", "url": "https://careers.cred.club/", "keywords": ["intern"] },
-  { "name": "Zepto", "type": "generic", "url": "https://www.zeptonow.com/careers", "keywords": ["intern"] },
-  { "name": "Meesho", "type": "generic", "url": "https://careers.meesho.io/", "keywords": ["intern"] },
-  { "name": "Swiggy", "type": "generic", "url": "https://careers.swiggy.com/#/jobs", "keywords": ["intern"] },
-  { "name": "Flipkart", "type": "generic", "url": "https://www.flipkartcareers.com/#!/joblist", "keywords": ["intern"] },
-  { "name": "BrowserStack", "type": "generic", "url": "https://www.browserstack.com/careers", "keywords": ["intern"] },
-  { "name": "InMobi", "type": "generic", "url": "https://www.inmobi.com/company/careers/", "keywords": ["intern"] },
-  { "name": "Freshworks", "type": "generic", "url": "https://www.freshworks.com/company/careers/", "keywords": ["intern"] },
-  { "name": "Zoho", "type": "generic", "url": "https://www.zoho.com/careers/", "keywords": ["intern"] },
-
-  { "name": "Deloitte", "type": "generic", "url": "https://apply.deloitte.com/en_US/careers/SearchJobs/intern", "keywords": ["intern"] },
-  { "name": "TCS", "type": "generic", "url": "https://ibegin.tcs.com/iBegin/jobs/search?keyword=intern", "keywords": ["intern"] },
-  { "name": "Infosys", "type": "generic", "url": "https://career.infosys.com/joblist?searchQuery=intern", "keywords": ["intern"] },
-  { "name": "Accenture", "type": "generic", "url": "https://www.accenture.com/in-en/careers/jobsearch?jk=intern", "keywords": ["intern"] },
-  { "name": "Capgemini", "type": "generic", "url": "https://www.capgemini.com/in-en/careers/join-us/", "keywords": ["intern"] },
-  { "name": "Wipro", "type": "generic", "url": "https://careers.wipro.com/careers-home/jobs?search=intern", "keywords": ["intern"] },
-  { "name": "HCLTech", "type": "generic", "url": "https://www.hcltech.com/careers/job-search?search=intern", "keywords": ["intern"] },
-  { "name": "EY", "type": "generic", "url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=india", "keywords": ["intern"] },
-  { "name": "PwC", "type": "generic", "url": "https://www.pwc.com/gx/en/careers/students/apply.html", "keywords": ["intern"] },
-  { "name": "KPMG", "type": "generic", "url": "https://home.kpmg/in/en/home/careers.html", "keywords": ["intern"] },
-
-  { "name": "ISRO", "type": "generic", "url": "https://www.isro.gov.in/Careers.html", "keywords": ["intern", "trainee"] },
-  { "name": "DRDO", "type": "generic", "url": "https://www.drdo.gov.in/drdo/careers", "keywords": ["intern", "trainee"] },
-  { "name": "CDAC", "type": "generic", "url": "https://www.cdac.in/index.aspx?id=career", "keywords": ["intern", "trainee"] }
+  {
+    "name": "Razorpay",
+    "type": "greenhouse",
+    "board_token": "razorpaysoftwareprivatelimited"
+  },
+  {
+    "name": "Postman",
+    "type": "greenhouse",
+    "board_token": "postman"
+  },
+  {
+    "name": "Databricks",
+    "type": "greenhouse",
+    "board_token": "databricks"
+  },
+  {
+    "name": "Robinhood",
+    "type": "greenhouse",
+    "board_token": "robinhood"
+  },
+  {
+    "name": "Notion",
+    "type": "greenhouse",
+    "board_token": "notion"
+  },
+  {
+    "name": "Netflix",
+    "type": "lever",
+    "board_token": "netflix"
+  },
+  {
+    "name": "Cohere",
+    "type": "lever",
+    "board_token": "cohere"
+  },
+  {
+    "name": "NVIDIA",
+    "type": "workday",
+    "tenant": "nvidia",
+    "site": "NVIDIAExternalCareerSite",
+    "hostname": "nvidia.wd5.myworkdayjobs.com"
+  },
+  {
+    "name": "Qualcomm",
+    "type": "workday",
+    "tenant": "qualcomm",
+    "site": "External",
+    "hostname": "qualcomm.wd12.myworkdayjobs.com"
+  },
+  {
+    "name": "Linear",
+    "type": "ashby",
+    "board_token": "linear"
+  },
+  {
+    "name": "Vercel",
+    "type": "ashby",
+    "board_token": "vercel"
+  },
+  {
+    "name": "Ramp",
+    "type": "ashby",
+    "board_token": "ramp"
+  },
+  {
+    "name": "Deel",
+    "type": "ashby",
+    "board_token": "deel"
+  },
+  {
+    "name": "Google",
+    "type": "generic",
+    "url": "https://www.google.com/about/careers/applications/jobs/results?target_level=INTERN_AND_APPRENTICE&location=India",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "type": "generic",
+    "url": "https://jobs.careers.microsoft.com/global/en/search?q=intern&lc=India",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "type": "generic",
+    "url": "https://www.amazon.jobs/en/search?base_query=intern&loc_query=India",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Adobe",
+    "type": "generic",
+    "url": "https://careers.adobe.com/us/en/search-results?keywords=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Salesforce",
+    "type": "generic",
+    "url": "https://careers.salesforce.com/en/jobs/?search=intern+india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Oracle",
+    "type": "generic",
+    "url": "https://careers.oracle.com/en/sites/jobsearch/jobs?keyword=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Cisco",
+    "type": "generic",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?projectLocation=71390-Asia%20Pacific",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "IBM",
+    "type": "generic",
+    "url": "https://www.ibm.com/in-en/careers/search?field_keyword_18[0]=Intern&field_keyword_08[0]=India",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Uber",
+    "type": "generic",
+    "url": "https://www.uber.com/us/en/careers/list/?query=intern&location=IND",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Atlassian",
+    "type": "generic",
+    "url": "https://www.atlassian.com/company/careers/all-jobs?team=&location=india&search=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Dell Technologies",
+    "type": "generic",
+    "url": "https://jobs.dell.com/en/search-jobs/intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "HPE",
+    "type": "generic",
+    "url": "https://careers.hpe.com/us/en/search-results?keywords=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "ServiceNow",
+    "type": "generic",
+    "url": "https://careers.servicenow.com/jobs/?search=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Walmart Global Tech",
+    "type": "generic",
+    "url": "https://careers.walmart.com/results?q=intern%20india&expand=department",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
+    "type": "generic",
+    "url": "https://higher.gs.com/results?SEARCH_KEYWORD=intern%20india",
+    "keywords": [
+      "intern",
+      "summer analyst"
+    ]
+  },
+  {
+    "name": "Morgan Stanley",
+    "type": "generic",
+    "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/search?keywords=intern+india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "JPMorgan Chase",
+    "type": "generic",
+    "url": "https://careers.jpmorgan.com/in/en/students/programs",
+    "keywords": [
+      "intern",
+      "summer analyst"
+    ]
+  },
+  {
+    "name": "American Express",
+    "type": "generic",
+    "url": "https://aexp.eightfold.ai/careers?query=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Visa",
+    "type": "generic",
+    "url": "https://usa.visa.com/careers/job-search.html?searchTerms=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Mastercard",
+    "type": "generic",
+    "url": "https://careers.mastercard.com/us/en/search-results?keywords=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "PayPal",
+    "type": "generic",
+    "url": "https://careers.pypl.com/search/?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Intuit",
+    "type": "generic",
+    "url": "https://jobs.intuit.com/search-jobs/intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Palo Alto Networks",
+    "type": "generic",
+    "url": "https://jobs.paloaltonetworks.com/en/jobs/?search=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Texas Instruments",
+    "type": "generic",
+    "url": "https://careers.ti.com/search-jobs/intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "PhonePe",
+    "type": "generic",
+    "url": "https://www.phonepe.com/careers/job-openings/?search=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Groww",
+    "type": "generic",
+    "url": "https://groww.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zerodha",
+    "type": "generic",
+    "url": "https://zerodha.com/jobs/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "CRED",
+    "type": "generic",
+    "url": "https://careers.cred.club/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zepto",
+    "type": "generic",
+    "url": "https://www.zeptonow.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Meesho",
+    "type": "generic",
+    "url": "https://careers.meesho.io/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Swiggy",
+    "type": "generic",
+    "url": "https://careers.swiggy.com/#/jobs",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Flipkart",
+    "type": "generic",
+    "url": "https://www.flipkartcareers.com/#!/joblist",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "BrowserStack",
+    "type": "generic",
+    "url": "https://www.browserstack.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "InMobi",
+    "type": "generic",
+    "url": "https://www.inmobi.com/company/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Freshworks",
+    "type": "generic",
+    "url": "https://www.freshworks.com/company/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zoho",
+    "type": "generic",
+    "url": "https://www.zoho.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Chargebee",
+    "type": "generic",
+    "url": "https://www.chargebee.com/careers/open-positions/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Hasura",
+    "type": "generic",
+    "url": "https://hasura.io/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "ClearTax",
+    "type": "generic",
+    "url": "https://cleartax.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Darwinbox",
+    "type": "generic",
+    "url": "https://darwinbox.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Icertis",
+    "type": "generic",
+    "url": "https://www.icertis.com/company/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "MindTickle",
+    "type": "generic",
+    "url": "https://www.mindtickle.com/company/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "HighRadius",
+    "type": "generic",
+    "url": "https://www.highradius.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Druva",
+    "type": "generic",
+    "url": "https://www.druva.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Whatfix",
+    "type": "generic",
+    "url": "https://whatfix.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Clevertap",
+    "type": "generic",
+    "url": "https://clevertap.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "MoEngage",
+    "type": "generic",
+    "url": "https://www.moengage.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Netcore Cloud",
+    "type": "generic",
+    "url": "https://www.netcorecloud.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Wingify (VWO)",
+    "type": "generic",
+    "url": "https://vwo.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Yellow.ai",
+    "type": "generic",
+    "url": "https://yellow.ai/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Haptik",
+    "type": "generic",
+    "url": "https://haptik.ai/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Observe.AI",
+    "type": "generic",
+    "url": "https://www.observe.ai/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Uniphore",
+    "type": "generic",
+    "url": "https://uniphore.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Sprinklr",
+    "type": "generic",
+    "url": "https://www.sprinklr.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Gupshup",
+    "type": "generic",
+    "url": "https://www.gupshup.io/developer/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Exotel",
+    "type": "generic",
+    "url": "https://exotel.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Locus",
+    "type": "generic",
+    "url": "https://locus.sh/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Shiprocket",
+    "type": "generic",
+    "url": "https://www.shiprocket.in/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Porter",
+    "type": "generic",
+    "url": "https://porter.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Udaan",
+    "type": "generic",
+    "url": "https://udaan.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Moglix",
+    "type": "generic",
+    "url": "https://www.moglix.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "OfBusiness",
+    "type": "generic",
+    "url": "https://www.ofbusiness.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zetwerk",
+    "type": "generic",
+    "url": "https://www.zetwerk.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "GreyOrange",
+    "type": "generic",
+    "url": "https://www.greyorange.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Ather Energy",
+    "type": "generic",
+    "url": "https://www.atherenergy.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Ola Electric",
+    "type": "generic",
+    "url": "https://olaelectric.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Urban Company",
+    "type": "generic",
+    "url": "https://careers.urbancompany.com/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Delhivery",
+    "type": "generic",
+    "url": "https://www.delhivery.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Rapido",
+    "type": "generic",
+    "url": "https://rapido.bike/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "PharmEasy",
+    "type": "generic",
+    "url": "https://pharmeasy.in/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "1mg",
+    "type": "generic",
+    "url": "https://www.1mg.com/corporate/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Practo",
+    "type": "generic",
+    "url": "https://www.practo.com/company/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "CureFit (Cult.fit)",
+    "type": "generic",
+    "url": "https://www.cult.fit/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Licious",
+    "type": "generic",
+    "url": "https://www.licious.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "UpGrad",
+    "type": "generic",
+    "url": "https://www.upgrad.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Vedantu",
+    "type": "generic",
+    "url": "https://vedantu.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Unacademy",
+    "type": "generic",
+    "url": "https://unacademy.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "PhysicsWallah",
+    "type": "generic",
+    "url": "https://www.pw.live/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "CarDekho",
+    "type": "generic",
+    "url": "https://www.cardekho.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Cars24",
+    "type": "generic",
+    "url": "https://www.cars24.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Spinny",
+    "type": "generic",
+    "url": "https://www.spinny.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Lenskart",
+    "type": "generic",
+    "url": "https://www.lenskart.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Nykaa",
+    "type": "generic",
+    "url": "https://www.nykaa.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Blinkit",
+    "type": "generic",
+    "url": "https://www.blinkit.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Bigbasket",
+    "type": "generic",
+    "url": "https://www.bigbasket.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Fractal Analytics",
+    "type": "generic",
+    "url": "https://fractal.ai/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "LatentView Analytics",
+    "type": "generic",
+    "url": "https://www.latentview.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Tredence",
+    "type": "generic",
+    "url": "https://www.tredence.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Innovaccer",
+    "type": "generic",
+    "url": "https://innovaccer.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Slice",
+    "type": "generic",
+    "url": "https://sliceit.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Jupiter Money",
+    "type": "generic",
+    "url": "https://jupiter.money/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Fi Money (epiFi)",
+    "type": "generic",
+    "url": "https://fi.money/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Juspay",
+    "type": "generic",
+    "url": "https://juspay.io/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zomato",
+    "type": "generic",
+    "url": "https://www.zomato.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Myntra",
+    "type": "generic",
+    "url": "https://careers.myntra.com/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Paytm",
+    "type": "generic",
+    "url": "https://jobs.paytm.com/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Pine Labs",
+    "type": "generic",
+    "url": "https://www.pinelabs.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Deloitte",
+    "type": "generic",
+    "url": "https://apply.deloitte.com/en_US/careers/SearchJobs/intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "TCS",
+    "type": "generic",
+    "url": "https://ibegin.tcs.com/iBegin/jobs/search?keyword=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Infosys",
+    "type": "generic",
+    "url": "https://career.infosys.com/joblist?searchQuery=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Accenture",
+    "type": "generic",
+    "url": "https://www.accenture.com/in-en/careers/jobsearch?jk=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Capgemini",
+    "type": "generic",
+    "url": "https://www.capgemini.com/in-en/careers/join-us/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Wipro",
+    "type": "generic",
+    "url": "https://careers.wipro.com/careers-home/jobs?search=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "HCLTech",
+    "type": "generic",
+    "url": "https://www.hcltech.com/careers/job-search?search=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "LTIMindtree",
+    "type": "generic",
+    "url": "https://careers.ltimindtree.com/#/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Tech Mahindra",
+    "type": "generic",
+    "url": "https://careers.techmahindra.com/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "EY",
+    "type": "generic",
+    "url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "PwC",
+    "type": "generic",
+    "url": "https://www.pwc.com/gx/en/careers/students/apply.html",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "KPMG",
+    "type": "generic",
+    "url": "https://home.kpmg/in/en/home/careers.html",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Cognizant",
+    "type": "generic",
+    "url": "https://careers.cognizant.com/global/en/search-results?keywords=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "ThoughtWorks",
+    "type": "generic",
+    "url": "https://www.thoughtworks.com/careers/jobs?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Globant",
+    "type": "generic",
+    "url": "https://www.globant.com/careers/jobs?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "EPAM Systems",
+    "type": "generic",
+    "url": "https://www.epam.com/careers/job-listings?query=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "ISRO",
+    "type": "generic",
+    "url": "https://www.isro.gov.in/Careers.html",
+    "keywords": [
+      "intern",
+      "trainee"
+    ]
+  },
+  {
+    "name": "DRDO",
+    "type": "generic",
+    "url": "https://www.drdo.gov.in/drdo/careers",
+    "keywords": [
+      "intern",
+      "trainee"
+    ]
+  },
+  {
+    "name": "CDAC",
+    "type": "generic",
+    "url": "https://www.cdac.in/index.aspx?id=career",
+    "keywords": [
+      "intern",
+      "trainee"
+    ]
+  },
+  {
+    "name": "BARC",
+    "type": "generic",
+    "url": "https://www.barc.gov.in/careers/",
+    "keywords": [
+      "intern",
+      "trainee"
+    ]
+  },
+  {
+    "name": "CSIR",
+    "type": "generic",
+    "url": "https://www.csir.res.in/careers",
+    "keywords": [
+      "intern",
+      "trainee"
+    ]
+  },
+  {
+    "name": "SAP",
+    "type": "generic",
+    "url": "https://jobs.sap.com/search/?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Siemens",
+    "type": "generic",
+    "url": "https://jobs.siemens.com/careers?query=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Philips",
+    "type": "generic",
+    "url": "https://www.careers.philips.com/global/en/search-results?keywords=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Schneider Electric",
+    "type": "generic",
+    "url": "https://www.se.com/in/en/about-us/careers/jobs.jsp?keyword=intern",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Honeywell",
+    "type": "generic",
+    "url": "https://careers.honeywell.com/us/en/search-results?keywords=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "GE",
+    "type": "generic",
+    "url": "https://jobs.gecareers.com/global/en/search-results?keywords=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "3M",
+    "type": "generic",
+    "url": "https://3m.wd1.myworkdayjobs.com/Search?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Micron Technology",
+    "type": "generic",
+    "url": "https://micron.eightfold.ai/careers?query=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Western Digital",
+    "type": "generic",
+    "url": "https://jobs.westerndigital.com/search-jobs/intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Synopsys",
+    "type": "generic",
+    "url": "https://www.synopsys.com/careers/jobs.html?keyword=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Cadence Design Systems",
+    "type": "generic",
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Arm",
+    "type": "generic",
+    "url": "https://careers.arm.com/search/?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Broadcom",
+    "type": "generic",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Analog Devices",
+    "type": "generic",
+    "url": "https://careers.analog.com/search/?q=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "HashiCorp",
+    "type": "generic",
+    "url": "https://www.hashicorp.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "MongoDB",
+    "type": "generic",
+    "url": "https://www.mongodb.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Elastic",
+    "type": "generic",
+    "url": "https://www.elastic.co/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Confluent",
+    "type": "generic",
+    "url": "https://careers.confluent.io/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "GitLab",
+    "type": "generic",
+    "url": "https://about.gitlab.com/jobs/all-jobs/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Docker",
+    "type": "generic",
+    "url": "https://www.docker.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "HPCL Digital/Red Hat",
+    "type": "generic",
+    "url": "https://www.redhat.com/en/jobs",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "SUSE",
+    "type": "generic",
+    "url": "https://www.suse.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Twilio",
+    "type": "generic",
+    "url": "https://www.twilio.com/en-us/company/jobs",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Okta",
+    "type": "generic",
+    "url": "https://www.okta.com/company/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Snowflake",
+    "type": "generic",
+    "url": "https://careers.snowflake.com/us/en/search-results?keywords=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "New Relic",
+    "type": "generic",
+    "url": "https://newrelic.com/about/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "PagerDuty",
+    "type": "generic",
+    "url": "https://www.pagerduty.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zendesk",
+    "type": "generic",
+    "url": "https://www.zendesk.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "HubSpot",
+    "type": "generic",
+    "url": "https://www.hubspot.com/careers/jobs?page=1&query=intern%20india",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "DigitalOcean",
+    "type": "generic",
+    "url": "https://www.digitalocean.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Cloudflare",
+    "type": "generic",
+    "url": "https://www.cloudflare.com/careers/jobs/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Fastly",
+    "type": "generic",
+    "url": "https://www.fastly.com/about/careers/open-positions",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Grafana Labs",
+    "type": "generic",
+    "url": "https://grafana.com/about/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Turing",
+    "type": "generic",
+    "url": "https://www.turing.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Rebel Foods",
+    "type": "generic",
+    "url": "https://www.rebelfoods.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Ninjacart",
+    "type": "generic",
+    "url": "https://ninjacart.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "DeHaat",
+    "type": "generic",
+    "url": "https://dehaat.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Bounce",
+    "type": "generic",
+    "url": "https://bounceshare.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Yulu",
+    "type": "generic",
+    "url": "https://www.yulu.bike/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "BlackBuck",
+    "type": "generic",
+    "url": "https://www.blackbuck.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Rivigo",
+    "type": "generic",
+    "url": "https://www.rivigo.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "LoadShare Networks",
+    "type": "generic",
+    "url": "https://loadshare.net/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Shadowfax",
+    "type": "generic",
+    "url": "https://www.shadowfax.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Xpressbees",
+    "type": "generic",
+    "url": "https://www.xpressbees.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Ecom Express",
+    "type": "generic",
+    "url": "https://www.ecomexpress.in/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Livspace",
+    "type": "generic",
+    "url": "https://www.livspace.com/in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "HomeLane",
+    "type": "generic",
+    "url": "https://www.homelane.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "NoBroker",
+    "type": "generic",
+    "url": "https://www.nobroker.in/jobs",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Housing.com",
+    "type": "generic",
+    "url": "https://housing.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "MagicBricks",
+    "type": "generic",
+    "url": "https://www.magicbricks.com/mbcareers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Acko",
+    "type": "generic",
+    "url": "https://www.acko.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Digit Insurance",
+    "type": "generic",
+    "url": "https://www.godigit.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "PolicyBazaar",
+    "type": "generic",
+    "url": "https://www.policybazaar.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Coverfox",
+    "type": "generic",
+    "url": "https://www.coverfox.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Testbook",
+    "type": "generic",
+    "url": "https://testbook.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Toppr",
+    "type": "generic",
+    "url": "https://www.toppr.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "BYJU'S",
+    "type": "generic",
+    "url": "https://byjus.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Simplilearn",
+    "type": "generic",
+    "url": "https://www.simplilearn.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "GreatLearning",
+    "type": "generic",
+    "url": "https://www.mygreatlearning.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Scaler Academy",
+    "type": "generic",
+    "url": "https://www.scaler.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Newton School",
+    "type": "generic",
+    "url": "https://www.newtonschool.co/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Masai School",
+    "type": "generic",
+    "url": "https://www.masaischool.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "GoMechanic",
+    "type": "generic",
+    "url": "https://www.gomechanic.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zoomcar",
+    "type": "generic",
+    "url": "https://www.zoomcar.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Revv",
+    "type": "generic",
+    "url": "https://www.revv.co.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Yatra",
+    "type": "generic",
+    "url": "https://www.yatra.com/corporate/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "MakeMyTrip",
+    "type": "generic",
+    "url": "https://careers.makemytrip.com/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "EaseMyTrip",
+    "type": "generic",
+    "url": "https://www.easemytrip.com/careers.html",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "ixigo",
+    "type": "generic",
+    "url": "https://www.ixigo.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Cleartrip",
+    "type": "generic",
+    "url": "https://www.cleartrip.com/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Meesho Tech",
+    "type": "generic",
+    "url": "https://careers.meesho.io/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Snapdeal",
+    "type": "generic",
+    "url": "https://www.snapdeal.com/about/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "ShopClues",
+    "type": "generic",
+    "url": "https://www.shopclues.com/careers.html",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Limeroad",
+    "type": "generic",
+    "url": "https://www.limeroad.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Purplle",
+    "type": "generic",
+    "url": "https://www.purplle.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Mamaearth (Honasa)",
+    "type": "generic",
+    "url": "https://mamaearth.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Sugar Cosmetics",
+    "type": "generic",
+    "url": "https://sugarcosmetics.com/pages/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "boAt Lifestyle",
+    "type": "generic",
+    "url": "https://www.boat-lifestyle.com/pages/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Noise",
+    "type": "generic",
+    "url": "https://www.gonoise.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Wow Skin Science",
+    "type": "generic",
+    "url": "https://www.buywow.in/pages/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Mensa Brands",
+    "type": "generic",
+    "url": "https://mensabrands.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "GlobalBees",
+    "type": "generic",
+    "url": "https://globalbees.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Rebel Foods (Faasos)",
+    "type": "generic",
+    "url": "https://www.rebelfoods.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Freshmenu",
+    "type": "generic",
+    "url": "https://www.freshmenu.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Faasos",
+    "type": "generic",
+    "url": "https://www.faasos.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Box8",
+    "type": "generic",
+    "url": "https://www.box8.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Curefoods",
+    "type": "generic",
+    "url": "https://curefoods.in/careers/",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Country Delight",
+    "type": "generic",
+    "url": "https://countrydelight.in/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Milkbasket",
+    "type": "generic",
+    "url": "https://www.milkbasket.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Zappfresh",
+    "type": "generic",
+    "url": "https://www.zappfresh.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Wakefit",
+    "type": "generic",
+    "url": "https://www.wakefit.co/careers",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Pepperfry",
+    "type": "generic",
+    "url": "https://www.pepperfry.com/careers.html",
+    "keywords": [
+      "intern"
+    ]
+  },
+  {
+    "name": "Urban Ladder",
+    "type": "generic",
+    "url": "https://www.urbanladder.com/careers",
+    "keywords": [
+      "intern"
+    ]
+  }
 ]
