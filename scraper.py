@@ -113,6 +113,73 @@ def fetch_lever(company):
     return listings
 
 
+def fetch_ashby(company):
+    """Ashby (used by Notion, Linear, Vercel, and many modern startups) has a
+    public read-only Job Board API - no auth, no headless browser needed."""
+    token = company["board_token"]
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{token}?includeCompensation=false"
+    r = requests.get(url, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    data = r.json()
+    jobs = data.get("jobs", [])
+    listings = {}
+    for job in jobs:
+        title = job.get("title", "")
+        if is_relevant(title):
+            job_id = job.get("id", title)
+            listings[job_id] = {
+                "title": title,
+                "url": job.get("jobUrl", ""),
+                "location": job.get("locationName", ""),
+            }
+    return listings
+
+
+def fetch_workday(company):
+    """Many large enterprises (NVIDIA, Qualcomm, Oracle, IBM, Cisco, etc.) use
+    Workday. The public careers page is JS-rendered, but the underlying data
+    comes from a JSON API (/wday/cxs/{tenant}/{site}/jobs) that we can call
+    directly with a POST request - no headless browser needed."""
+    tenant = company["tenant"]
+    site = company["site"]
+    hostname = company.get("hostname")  # e.g. "nvidia.wd5.myworkdayjobs.com"
+    if not hostname:
+        hostname = f"{tenant}.myworkdayjobs.com"
+    api_url = f"https://{hostname}/wday/cxs/{tenant}/{site}/jobs"
+
+    listings = {}
+    offset = 0
+    limit = 20
+    for _ in range(5):  # cap pages to stay fast/safe
+        body = {
+            "appliedFacets": {},
+            "limit": limit,
+            "offset": offset,
+            "searchText": "",
+        }
+        r = requests.post(api_url, headers={**HEADERS, "Content-Type": "application/json"},
+                           json=body, timeout=20)
+        r.raise_for_status()
+        data = r.json()
+        postings = data.get("jobPostings", [])
+        if not postings:
+            break
+        for job in postings:
+            title = job.get("title", "")
+            if is_relevant(title):
+                path = job.get("externalPath", "")
+                job_key = path or title
+                listings[job_key] = {
+                    "title": title,
+                    "url": f"https://{hostname}{path}" if path else "",
+                    "location": job.get("locationsText", ""),
+                }
+        offset += limit
+        if offset >= data.get("total", 0):
+            break
+    return listings
+
+
 def fetch_generic(company):
     url = company["url"]
     keywords = company.get("keywords", ["intern"])
@@ -142,6 +209,8 @@ def fetch_generic(company):
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
+    "ashby": fetch_ashby,
+    "workday": fetch_workday,
     "generic": fetch_generic,
 }
 
