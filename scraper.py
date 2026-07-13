@@ -59,8 +59,38 @@ def is_eligible_for_undergrad(title: str) -> bool:
     return not DISQUALIFYING_TERMS.search(title)
 
 
+# Only these fields count as relevant - Software/Tech/DevOps/Cloud/Data/etc.
+# Titles with none of these words (e.g. "Marketing Associate Intern",
+# "HR Intern", "Sales Intern") are filtered out even though they ARE
+# genuine internships, because they don't match a CS/DevOps/Cloud profile.
+TECH_ROLE_PATTERN = re.compile(
+    r"\bsoftware\b|\bdeveloper\b|\bengineer(ing)?\b|\bdevops\b|\bcloud\b|"
+    r"\bback[\s-]?end\b|\bfront[\s-]?end\b|\bfull[\s-]?stack\b|"
+    r"\bdata\s*(science|scientist|engineer|analyst|analytics)?\b|"
+    r"\bmachine\s*learning\b|\bml\b|\bai\b|\bartificial\s*intelligence\b|"
+    r"\bcyber\s*security\b|\bsecurity\s*engineer\b|"
+    r"\bsre\b|\bsite\s*reliability\b|\binfrastructure\b|\bsystems?\s*engineer\b|"
+    r"\bnetwork\s*engineer\b|\bqa\b|\bquality\s*assurance\b|\btest(ing)?\s*engineer\b|"
+    r"\bsde\b|\bprogrammer\b|\bcomputer\s*science\b|\btechnical\b|"
+    r"\bproduct\s*engineering\b|\bit\s*(support|engineer|analyst)\b|"
+    r"\bkubernetes\b|\bdocker\b|\blinux\b|\bpython\b|\bjava\b|\baws\b|\bgcp\b|\bazure\b",
+    re.IGNORECASE,
+)
+
+
+def is_tech_role(title: str) -> bool:
+    """True only if the title is a Software/Tech/DevOps/Cloud/Data-type role.
+    Filters out genuine but non-technical internships (Marketing, Sales, HR,
+    Finance, Business roles) that would otherwise pass the level check."""
+    return bool(TECH_ROLE_PATTERN.search(title))
+
+
 def is_relevant(title: str) -> bool:
-    return looks_like_internship(title) and is_eligible_for_undergrad(title)
+    return (
+        looks_like_internship(title)
+        and is_eligible_for_undergrad(title)
+        and is_tech_role(title)
+    )
 
 
 def load_json(path, default):
