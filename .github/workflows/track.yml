@@ -11,6 +11,7 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 75   # 198 companies now use Playwright, needs more time than plain requests
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -22,6 +23,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Install Playwright browser
+        run: playwright install --with-deps chromium
 
       - name: Run scraper
         run: python scraper.py
