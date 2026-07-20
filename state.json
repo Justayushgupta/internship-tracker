@@ -20,8 +20,30 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {},
-  "Adobe": {},
+  "Amazon": {
+    "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
+      "title": "Engineering Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
+      "location": ""
+    },
+    "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
+      "title": "Engineering Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
+      "location": ""
+    }
+  },
+  "Adobe": {
+    "https://careers.adobe.com/us/en/job/R160317/2026-Intern-Research-Scientist-Engineer": {
+      "title": "2026 Intern - Research Scientist/Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R160317/2026-Intern-Research-Scientist-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR160317EXTERNALENUS": {
+      "title": "Apply Now2026 Intern - Research Scientist/Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR160317EXTERNALENUS",
+      "location": ""
+    }
+  },
   "Salesforce": {},
   "Oracle": {},
   "Cisco": {},
@@ -73,7 +95,18 @@
   "Uniphore": {},
   "Sprinklr": {},
   "Gupshup": {},
-  "Exotel": {},
+  "Exotel": {
+    "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern": {
+      "title": "Integration & Customization Engineer - Intern",
+      "url": "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern",
+      "location": ""
+    },
+    "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
+      "title": "Sales Engineer Intern",
+      "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
+      "location": ""
+    }
+  },
   "Locus": {},
   "Shiprocket": {},
   "Porter": {},
@@ -188,7 +221,28 @@
   "Zendesk": {},
   "HubSpot": {},
   "DigitalOcean": {},
-  "Cloudflare": {},
+  "Cloudflare": {
+    "8044395": {
+      "title": "AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
+      "location": "In-Office"
+    },
+    "8020830": {
+      "title": "Sales Project Manager Intern (AI Innovation) (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830",
+      "location": "In-Office"
+    },
+    "8052785": {
+      "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
+      "location": "In-Office"
+    },
+    "8041135": {
+      "title": "Technical Support Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135",
+      "location": "In-Office"
+    }
+  },
   "Fastly": {},
   "Grafana Labs": {},
   "Turing": {},
