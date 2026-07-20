@@ -21,14 +21,14 @@
   "Google": {},
   "Microsoft": {},
   "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
-      "title": "Engineering Intern",
-      "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
-      "location": ""
-    },
     "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
       "title": "Engineering Intern",
       "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
+      "location": ""
+    },
+    "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
+      "title": "Engineering Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
       "location": ""
     }
   },
