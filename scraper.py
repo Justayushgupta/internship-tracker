@@ -236,16 +236,52 @@ def fetch_generic(company):
     return listings
 
 
+def fetch_playwright_generic(company, page):
+    """For JS-rendered career pages (Google, Microsoft, TCS, Infosys, etc.)
+    that plain requests can't see. Uses a real headless Chrome browser (via
+    Playwright) to load the page, let its JavaScript run, then reads the
+    fully-rendered HTML - same link-scanning logic as fetch_generic."""
+    from urllib.parse import urljoin
+
+    url = company["url"]
+    keywords = company.get("keywords", ["intern"])
+
+    page.goto(url, timeout=25000, wait_until="domcontentloaded")
+    try:
+        page.wait_for_timeout(3000)  # let client-side JS render the job list
+    except Exception:
+        pass
+    html = page.content()
+    soup = BeautifulSoup(html, "html.parser")
+
+    listings = {}
+    for a in soup.find_all("a"):
+        text = a.get_text(strip=True)
+        if not text:
+            continue
+        extra_keyword_match = any(
+            kw.lower() in text.lower() for kw in keywords if kw.lower() not in ("intern",)
+        )
+        if (is_relevant(text)) or (extra_keyword_match and is_eligible_for_undergrad(text)):
+            href = a.get("href", "")
+            if href.startswith("/"):
+                href = urljoin(url, href)
+            key = href or text
+            listings[key] = {"title": text, "url": href, "location": ""}
+    return listings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "ashby": fetch_ashby,
     "workday": fetch_workday,
     "generic": fetch_generic,
+    "playwright_generic": fetch_playwright_generic,
 }
 
 
-def check_company(company, old_state):
+def check_company(company, old_state, pw_page=None):
     ctype = company["type"]
     name = company["name"]
     fetcher = FETCHERS.get(ctype)
@@ -254,7 +290,10 @@ def check_company(company, old_state):
         return {}, []
 
     try:
-        current = fetcher(company)
+        if ctype == "playwright_generic":
+            current = fetcher(company, pw_page)
+        else:
+            current = fetcher(company)
     except Exception as e:
         print(f"[error] {name}: {e}")
         # keep old state untouched on failure, no new listings reported
@@ -274,11 +313,29 @@ def main():
     all_new = []
     new_state = {}
 
-    for company in companies:
-        current, new_listings = check_company(company, state)
-        new_state[company["name"]] = current
-        all_new.extend(new_listings)
-        time.sleep(1)  # be polite to servers
+    needs_browser = any(c.get("type") == "playwright_generic" for c in companies)
+    playwright_ctx = None
+    browser = None
+    pw_page = None
+
+    if needs_browser:
+        from playwright.sync_api import sync_playwright
+        playwright_ctx = sync_playwright().start()
+        browser = playwright_ctx.chromium.launch(headless=True)
+        pw_page = browser.new_page(user_agent=HEADERS["User-Agent"])
+        print("Playwright browser launched for JS-rendered career pages.")
+
+    try:
+        for company in companies:
+            current, new_listings = check_company(company, state, pw_page)
+            new_state[company["name"]] = current
+            all_new.extend(new_listings)
+            time.sleep(1)  # be polite to servers
+    finally:
+        if browser:
+            browser.close()
+        if playwright_ctx:
+            playwright_ctx.stop()
 
     save_json(STATE_FILE, new_state)
 
