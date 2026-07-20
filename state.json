@@ -19,16 +19,22 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
-  "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
-      "title": "Engineering Intern",
-      "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393556866895": {
+      "title": "Software Engineer: Internship Opportunities - Ignite Program for People with DisabilitiesEgypt, Cairo, CairoPosted 4 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556866895",
       "location": ""
-    },
+    }
+  },
+  "Amazon": {
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
       "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
+      "location": ""
+    },
+    "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
+      "title": "Engineering Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
       "location": ""
     }
   },
