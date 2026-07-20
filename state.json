@@ -19,13 +19,7 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393556866895": {
-      "title": "Software Engineer: Internship Opportunities - Ignite Program for People with DisabilitiesEgypt, Cairo, CairoPosted 4 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556866895",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
@@ -110,6 +104,11 @@
     "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
       "title": "Sales Engineer Intern",
       "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
+      "location": ""
+    },
+    "https://exotel.com/about-us/careers/#op-664901-ai-intern": {
+      "title": "AI Intern",
+      "url": "https://exotel.com/about-us/careers/#op-664901-ai-intern",
       "location": ""
     }
   },
