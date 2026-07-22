@@ -105,11 +105,6 @@
       "title": "Sales Engineer Intern",
       "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
       "location": ""
-    },
-    "https://exotel.com/about-us/careers/#op-664901-ai-intern": {
-      "title": "AI Intern",
-      "url": "https://exotel.com/about-us/careers/#op-664901-ai-intern",
-      "location": ""
     }
   },
   "Locus": {},
@@ -198,7 +193,13 @@
     }
   },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/571841/Apprentice-Trainee-Software-Developer-Level-1": {
+      "title": "Apprentice Trainee (Software Developer Level 1)",
+      "url": "https://www.careers.philips.com/global/en/job/571841/Apprentice-Trainee-Software-Developer-Level-1",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
