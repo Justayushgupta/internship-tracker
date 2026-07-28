@@ -92,4 +92,4 @@ else, use `"type": "generic"` with the direct careers/jobs-search URL.
   tell me and I'll switch it to a Playwright-based fetch (works for any site,
   just needs a slightly heavier setup).
 - This tracks new postings on the specific URLs configured — if a company
-  changes its career page structure/URL, that entry will need updating..
+  changes its career page structure/URL, that entry will need updating.
