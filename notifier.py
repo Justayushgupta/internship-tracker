@@ -7,6 +7,12 @@ Requires these environment variables (set as GitHub Actions secrets):
   GMAIL_ADDRESS
   GMAIL_APP_PASSWORD
   TO_EMAIL
+
+IMPORTANT: this script always exits with code 0 (success), even if sending
+a notification fails. That way a bad/expired Gmail password or a Telegram
+hiccup can never block the "Commit updated state" step that follows - if it
+did, state.json would never get saved and the same listings would be
+reported as "new" forever on every run.
 """
 
 import json
@@ -39,13 +45,15 @@ def send_telegram(message):
     if not token or not chat_id:
         print("Telegram credentials missing, skipping Telegram notification.")
         return
-    url = f"https://api.telegram.org/bot{token}/sendMessage"
-    # Telegram messages max ~4096 chars; split if needed
-    for i in range(0, len(message), 4000):
-        chunk = message[i:i + 4000]
-        r = requests.post(url, data={"chat_id": chat_id, "text": chunk})
-        if r.status_code != 200:
-            print(f"Telegram send failed: {r.text}")
+    try:
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
+        for i in range(0, len(message), 4000):
+            chunk = message[i:i + 4000]
+            r = requests.post(url, data={"chat_id": chat_id, "text": chunk}, timeout=20)
+            if r.status_code != 200:
+                print(f"[warn] Telegram send failed: {r.text}")
+    except Exception as e:
+        print(f"[warn] Telegram notification failed, continuing anyway: {e}")
 
 
 def send_email(subject, body):
@@ -56,14 +64,23 @@ def send_email(subject, body):
         print("Email credentials missing, skipping email notification.")
         return
 
-    msg = MIMEText(body)
-    msg["Subject"] = subject
-    msg["From"] = gmail_addr
-    msg["To"] = to_email
+    try:
+        msg = MIMEText(body)
+        msg["Subject"] = subject
+        msg["From"] = gmail_addr
+        msg["To"] = to_email
 
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(gmail_addr, gmail_pass)
-        server.sendmail(gmail_addr, [to_email], msg.as_string())
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=20) as server:
+            server.login(gmail_addr, gmail_pass)
+            server.sendmail(gmail_addr, [to_email], msg.as_string())
+        print("Email sent successfully.")
+    except Exception as e:
+        # Never let an email failure (e.g. expired app password) crash the
+        # workflow - that would block the state.json commit step and cause
+        # the same listings to be re-reported as "new" on every future run.
+        print(f"[warn] Email notification failed, continuing anyway: {e}")
+        print("[warn] Check that GMAIL_APP_PASSWORD secret is still valid "
+              "(regenerate at myaccount.google.com/apppasswords if needed).")
 
 
 def main():
@@ -85,3 +102,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Always exit 0 - notification failures should never block the
+    # downstream "Commit updated state" step.
