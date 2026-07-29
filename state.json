@@ -95,18 +95,7 @@
   "Uniphore": {},
   "Sprinklr": {},
   "Gupshup": {},
-  "Exotel": {
-    "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern": {
-      "title": "Integration & Customization Engineer - Intern",
-      "url": "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern",
-      "location": ""
-    },
-    "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
-      "title": "Sales Engineer Intern",
-      "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
-      "location": ""
-    }
-  },
+  "Exotel": {},
   "Locus": {},
   "Shiprocket": {},
   "Porter": {},
@@ -212,14 +201,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8089379": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
-      "location": "In-Office"
-    },
     "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "location": "In-Office"
+    },
+    "8089379": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
     "8020830": {
