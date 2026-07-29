@@ -95,7 +95,18 @@
   "Uniphore": {},
   "Sprinklr": {},
   "Gupshup": {},
-  "Exotel": {},
+  "Exotel": {
+    "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern": {
+      "title": "Integration & Customization Engineer - Intern",
+      "url": "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern",
+      "location": ""
+    },
+    "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
+      "title": "Sales Engineer Intern",
+      "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
+      "location": ""
+    }
+  },
   "Locus": {},
   "Shiprocket": {},
   "Porter": {},
@@ -201,9 +212,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8044395": {
-      "title": "AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
+    "8089379": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "location": "In-Office"
+    },
+    "8089400": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8020830": {
@@ -214,11 +230,6 @@
     "8052785": {
       "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
-      "location": "In-Office"
-    },
-    "8041135": {
-      "title": "Technical Support Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135",
       "location": "In-Office"
     }
   },
