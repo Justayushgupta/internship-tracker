@@ -25,7 +25,18 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393556937623": {
+      "title": "Technical Support Engineer Intern for People with Disabilities (Ignite Program)Egypt, Cairo, CairoPosted 21 days ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556937623",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556866895": {
+      "title": "Software Engineer: Internship Opportunities - Ignite Program for People with DisabilitiesEgypt, Cairo, CairoPosted 15 days ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556866895",
+      "location": ""
+    }
+  },
   "Amazon": {
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
@@ -57,11 +68,6 @@
   "Mastercard": {},
   "PayPal": {},
   "Intuit": {
-    "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731492016": {
-      "title": "Intern, Software EngineeringBangalore, India",
-      "url": "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731492016",
-      "location": ""
-    },
     "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731491968": {
       "title": "Intern, Software EngineeringBangalore, India",
       "url": "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731491968",
@@ -228,14 +234,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
-    "8089400": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-      "location": "In-Office"
-    },
     "8089407": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "location": "In-Office"
+    },
+    "8089400": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8052785": {
