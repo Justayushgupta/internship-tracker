@@ -25,33 +25,7 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393556922931": {
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922931",
-      "location": ""
-    },
-    "https://jobs.careers.microsoft.com/careers/job/1970393556922923": {
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922923",
-      "location": ""
-    },
-    "https://jobs.careers.microsoft.com/careers/job/1970393556922929": {
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922929",
-      "location": ""
-    },
-    "https://jobs.careers.microsoft.com/careers/job/1970393556922930": {
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922930",
-      "location": ""
-    },
-    "https://jobs.careers.microsoft.com/careers/job/1970393556922922": {
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,United States, Washington, RedmondPosted 2 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922922",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
@@ -82,7 +56,18 @@
   "Visa": {},
   "Mastercard": {},
   "PayPal": {},
-  "Intuit": {},
+  "Intuit": {
+    "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731492016": {
+      "title": "Intern, Software EngineeringBangalore, India",
+      "url": "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731492016",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731491968": {
+      "title": "Intern, Software EngineeringBangalore, India",
+      "url": "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98731491968",
+      "location": ""
+    }
+  },
   "Palo Alto Networks": {},
   "Texas Instruments": {},
   "PhonePe": {},
