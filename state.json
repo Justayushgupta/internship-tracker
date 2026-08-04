@@ -25,7 +25,33 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393556922931": {
+      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922931",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556922923": {
+      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922923",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556922929": {
+      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922929",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556922930": {
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922930",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556922922": {
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,United States, Washington, RedmondPosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922922",
+      "location": ""
+    }
+  },
   "Amazon": {
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
@@ -217,19 +243,24 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
-    "8089407": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-      "location": "In-Office"
-    },
     "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
+    "8089407": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "location": "In-Office"
+    },
     "8052785": {
       "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
+      "location": "In-Office"
+    },
+    "8104024": {
+      "title": "Technical Marketing Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024",
       "location": "In-Office"
     }
   },
