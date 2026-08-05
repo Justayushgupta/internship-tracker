@@ -218,14 +218,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
       "location": "In-Office"
     },
-    "8089400": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-      "location": "In-Office"
-    },
     "8089379": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "location": "In-Office"
+    },
+    "8089400": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8089407": {
@@ -241,6 +241,11 @@
     "8104024": {
       "title": "Technical Marketing Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024",
+      "location": "In-Office"
+    },
+    "8105728": {
+      "title": "U.S. Public Policy and AI Innovation Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728",
       "location": "In-Office"
     }
   },
