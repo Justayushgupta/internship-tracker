@@ -178,7 +178,13 @@
     }
   },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/589302/Apprentice-Trainee-Software-Developer": {
+      "title": "Apprentice Trainee (Software Developer)",
+      "url": "https://www.careers.philips.com/global/en/job/589302/Apprentice-Trainee-Software-Developer",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
@@ -212,6 +218,11 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
       "location": "In-Office"
     },
+    "8089379": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "location": "In-Office"
+    },
     "8089407": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
@@ -220,11 +231,6 @@
     "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-      "location": "In-Office"
-    },
-    "8089379": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
     "8052785": {
