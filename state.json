@@ -56,13 +56,7 @@
   "Visa": {},
   "Mastercard": {},
   "PayPal": {},
-  "Intuit": {
-    "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98962244160": {
-      "title": "Intern, Software EngineeringBangalore, India",
-      "url": "https://jobs.intuit.com/job/bengaluru/intern-software-engineering/27595/98962244160",
-      "location": ""
-    }
-  },
+  "Intuit": {},
   "Palo Alto Networks": {},
   "Texas Instruments": {},
   "PhonePe": {},
@@ -178,7 +172,13 @@
     }
   },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/588828/Apprentice-Trainee-Software-Developer": {
+      "title": "Apprentice Trainee (Software Developer)",
+      "url": "https://www.careers.philips.com/global/en/job/588828/Apprentice-Trainee-Software-Developer",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
