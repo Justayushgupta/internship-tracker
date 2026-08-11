@@ -90,7 +90,18 @@
   "Uniphore": {},
   "Sprinklr": {},
   "Gupshup": {},
-  "Exotel": {},
+  "Exotel": {
+    "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern": {
+      "title": "Integration & Customization Engineer - Intern",
+      "url": "https://exotel.com/about-us/careers/#op-696136-integration--customization-engineer-intern",
+      "location": ""
+    },
+    "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
+      "title": "Sales Engineer Intern",
+      "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
+      "location": ""
+    }
+  },
   "Locus": {},
   "Shiprocket": {},
   "Porter": {},
@@ -154,6 +165,11 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
+    "https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Customer-Innovation-Services-Software-Developer-Queb-H3B-0B3/1425379833/": {
+      "title": "SAP iXp Intern - Customer Innovation Services - Software Developer",
+      "url": "https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Customer-Innovation-Services-Software-Developer-Queb-H3B-0B3/1425379833/",
+      "location": ""
+    },
     "https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Developer-for-Web-Application-Xi&apos;an-710077/1377239633/": {
       "title": "SAP China iXp Intern - Developer for Web Application - Xi'an",
       "url": "https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Developer-for-Web-Application-Xi&apos;an-710077/1377239633/",
@@ -201,6 +217,11 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
       "location": "In-Office"
     },
+    "8089400": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "location": "In-Office"
+    },
     "8089407": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
@@ -209,11 +230,6 @@
     "8089379": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
-      "location": "In-Office"
-    },
-    "8089400": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8118845": {
