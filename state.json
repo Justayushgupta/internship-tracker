@@ -12,7 +12,13 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645": {
+      "title": "Software Engineering Intern, NCCL - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
+      "location": "2 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -206,6 +212,11 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
+    "8089379": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "location": "In-Office"
+    },
     "8089407": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
@@ -214,11 +225,6 @@
     "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-      "location": "In-Office"
-    },
-    "8089379": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
     "8118845": {
