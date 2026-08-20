@@ -13,10 +13,30 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
-    "/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646": {
-      "title": "Artificial Intelligence Research Intern - Deep Learning",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646",
-      "location": "Taiwan, Taipei"
+    "/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645": {
+      "title": "Software Engineering Intern, CUDA Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655": {
+      "title": "Software QA Intern, Spark Rapids  - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852": {
+      "title": "Test Development Software Engineering Intern, Aerial - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656": {
+      "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654": {
+      "title": "Software QA Developer Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654",
+      "location": "China, Shanghai"
     }
   },
   "Qualcomm": {},
@@ -33,14 +53,14 @@
   "Google": {},
   "Microsoft": {},
   "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
-      "title": "Engineering Intern",
-      "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
-      "location": ""
-    },
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
       "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
+      "location": ""
+    },
+    "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
+      "title": "Engineering Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
       "location": ""
     }
   },
@@ -207,9 +227,9 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8089400": {
+    "8089379": {
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
     "8089407": {
@@ -217,9 +237,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office"
     },
-    "8089379": {
+    "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8118845": {
