@@ -7,28 +7,18 @@
       "location": "Berkeley, California, United States; San Francisco, California, United States"
     }
   },
-  "Databricks": {},
+  "Databricks": {
+    "8732364002": {
+      "title": "Software Engineering Intern (2027 Start) - Winter",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California"
+    }
+  },
   "Robinhood": {},
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645": {
-      "title": "Software Engineering Intern, CUDA Test Development - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655": {
-      "title": "Software QA Intern, Spark Rapids  - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852": {
-      "title": "Test Development Software Engineering Intern, Aerial - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852",
-      "location": "China, Shanghai"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -217,9 +207,9 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8089407": {
+    "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8089379": {
@@ -227,19 +217,19 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
-    "8089400": {
+    "8089407": {
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-      "location": "In-Office"
-    },
-    "8118855": {
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office"
     },
     "8118845": {
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+      "location": "In-Office"
+    },
+    "8118855": {
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
       "location": "In-Office"
     },
     "8052785": {
