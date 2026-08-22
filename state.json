@@ -43,11 +43,6 @@
       "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913",
       "location": "Taiwan, Taipei"
-    },
-    "/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905": {
-      "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905",
-      "location": "Taiwan, Taipei"
     }
   },
   "Qualcomm": {},
@@ -64,14 +59,14 @@
   "Google": {},
   "Microsoft": {},
   "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
-      "title": "Engineering Intern",
-      "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
-      "location": ""
-    },
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
       "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
+      "location": ""
+    },
+    "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
+      "title": "Engineering Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
       "location": ""
     }
   },
@@ -127,7 +122,13 @@
   "Uniphore": {},
   "Sprinklr": {},
   "Gupshup": {},
-  "Exotel": {},
+  "Exotel": {
+    "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
+      "title": "Sales Engineer Intern",
+      "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
+      "location": ""
+    }
+  },
   "Locus": {},
   "Shiprocket": {},
   "Porter": {},
@@ -232,11 +233,6 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8089407": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-      "location": "In-Office"
-    },
     "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
@@ -247,14 +243,19 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
-    "8118845": {
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+    "8089407": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office"
     },
     "8118855": {
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "location": "In-Office"
+    },
+    "8118845": {
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office"
     },
     "8052785": {
