@@ -37,7 +37,18 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393556971803": {
+      "title": "Software Engineering Intern - Azure CoreAustralia, Multiple Locations, Multiple LocationsPosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556971803",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556978345": {
+      "title": "Software Engineering Intern - ClipchampAustralia, New South Wales, Sydney + 2 morePosted 3 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556978345",
+      "location": ""
+    }
+  },
   "Amazon": {
     "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
       "title": "Engineering Intern",
@@ -223,14 +234,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
-    "8118845": {
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
-      "location": "In-Office"
-    },
     "8118855": {
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "location": "In-Office"
+    },
+    "8118845": {
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office"
     },
     "8052785": {
