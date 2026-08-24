@@ -49,14 +49,14 @@
   "Google": {},
   "Microsoft": {},
   "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
-      "title": "Engineering Intern",
-      "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
-      "location": ""
-    },
     "https://www.amazon.jobs/en/jobs/3083037/engineering-intern": {
       "title": "Engineering Intern",
       "url": "https://www.amazon.jobs/en/jobs/3083037/engineering-intern",
+      "location": ""
+    },
+    "https://www.amazon.jobs/en/jobs/3083050/engineering-intern": {
+      "title": "Engineering Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3083050/engineering-intern",
       "location": ""
     }
   },
@@ -218,6 +218,11 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
+    "8089400": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "location": "In-Office"
+    },
     "8089407": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
@@ -226,11 +231,6 @@
     "8089379": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
-      "location": "In-Office"
-    },
-    "8089400": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8118845": {
