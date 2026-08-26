@@ -19,20 +19,15 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
-    "/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2024001": {
-      "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2024001",
+    "/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644": {
+      "title": "System Design Validation Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644",
       "location": "Taiwan, Taipei"
     },
-    "/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1": {
-      "title": "AI Developer Technology Intern, Robotics - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
-      "location": "2 Locations"
-    },
-    "/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258": {
-      "title": "Developer Technology Engineering Intern, AI - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
-      "location": "2 Locations"
+    "/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995": {
+      "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995",
+      "location": "Taiwan, Taipei"
     }
   },
   "Qualcomm": {},
@@ -218,14 +213,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8089407": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-      "location": "In-Office"
-    },
     "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "location": "In-Office"
+    },
+    "8089407": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office"
     },
     "8089379": {
@@ -233,14 +228,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
-    "8118855": {
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
-      "location": "In-Office"
-    },
     "8118845": {
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+      "location": "In-Office"
+    },
+    "8118855": {
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
       "location": "In-Office"
     },
     "8052785": {
