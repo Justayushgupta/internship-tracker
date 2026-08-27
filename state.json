@@ -18,18 +18,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644": {
-      "title": "System Design Validation Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644",
-      "location": "Taiwan, Taipei"
-    },
-    "/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995": {
-      "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995",
-      "location": "Taiwan, Taipei"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -213,14 +202,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
-    "8089407": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
-      "location": "In-Office"
-    },
     "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "location": "In-Office"
+    },
+    "8089407": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office"
     },
     "8118855": {
