@@ -18,7 +18,23 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648": {
+      "title": "Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652": {
+      "title": "Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652",
+      "location": "China, Shanghai"
+    },
+    "/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500": {
+      "title": "System Software Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500",
+      "location": "Taiwan, Taipei"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
