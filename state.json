@@ -19,6 +19,11 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002": {
+      "title": "AI Developer Technology Engineer Intern, AI - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
+      "location": "2 Locations"
+    },
     "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648": {
       "title": "Software Engineering Intern, Test Development - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648",
@@ -67,13 +72,7 @@
   "Visa": {},
   "Mastercard": {},
   "PayPal": {},
-  "Intuit": {
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864": {
-      "title": "Summer 2027: Software Engineering Intern - Full StackMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
-      "location": ""
-    }
-  },
+  "Intuit": {},
   "Palo Alto Networks": {},
   "Texas Instruments": {},
   "PhonePe": {},
@@ -189,7 +188,13 @@
   "Honeywell": {},
   "GE": {},
   "3M": {},
-  "Micron Technology": {},
+  "Micron Technology": {
+    "https://micron.eightfold.ai/careers/job/44217189": {
+      "title": "Intern - F10 QEM Product Quality Engineering Yield Data AnalayticsSingapore, SingaporePosted 13 hours ago",
+      "url": "https://micron.eightfold.ai/careers/job/44217189",
+      "location": ""
+    }
+  },
   "Western Digital": {},
   "Synopsys": {},
   "Cadence Design Systems": {},
@@ -218,14 +223,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
-    "8089379": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
-      "location": "In-Office"
-    },
     "8089407": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "location": "In-Office"
+    },
+    "8089379": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
     "8118855": {
