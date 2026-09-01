@@ -33,7 +33,18 @@
   "Google": {},
   "Microsoft": {},
   "Amazon": {},
-  "Adobe": {},
+  "Adobe": {
+    "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer": {
+      "title": "2027 Intern - Machine Learning Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Machine Learning Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS",
+      "location": ""
+    }
+  },
   "Salesforce": {},
   "Oracle": {},
   "Cisco": {},
@@ -197,9 +208,9 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8089400": {
+    "8089379": {
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
     "8089407": {
@@ -207,9 +218,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office"
     },
-    "8089379": {
+    "8089400": {
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8118845": {
