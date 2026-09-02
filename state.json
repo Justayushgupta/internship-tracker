@@ -18,18 +18,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509": {
-      "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
-      "location": "Taiwan, Taipei"
-    },
-    "/job/Taiwan-Hsinchu/ASIC-Design-Engineer--RDSS-Intern-_JR2024822": {
-      "title": "ASIC Design Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/ASIC-Design-Engineer--RDSS-Intern-_JR2024822",
-      "location": "Taiwan, Hsinchu"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -42,7 +31,13 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393556982897": {
+      "title": "Data Science: Internship Opportunities - RedmondUnited States, Washington, RedmondPosted 4 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556982897",
+      "location": ""
+    }
+  },
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer": {
@@ -224,24 +219,24 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office"
     },
-    "8089400": {
-      "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-      "location": "In-Office"
-    },
     "8089379": {
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office"
     },
-    "8118845": {
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+    "8089400": {
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office"
     },
     "8118855": {
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "location": "In-Office"
+    },
+    "8118845": {
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office"
     },
     "8052785": {
