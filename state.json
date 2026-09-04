@@ -18,7 +18,28 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889": {
+      "title": "Compute System Arch AI Infra Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040": {
+      "title": "Infrastructure Tool Development Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040",
+      "location": "China, Shanghai"
+    },
+    "/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814": {
+      "title": "Deep Learning Algorithm Engineering Intern - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814",
+      "location": "Switzerland, Zurich"
+    },
+    "/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": {
+      "title": "AI Developer Technology Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+      "location": "3 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -206,14 +227,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8118845": {
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
-      "location": "In-Office"
-    },
     "8118855": {
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "location": "In-Office"
+    },
+    "8118845": {
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office"
     },
     "8052785": {
