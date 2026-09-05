@@ -100,7 +100,13 @@
   "Uniphore": {},
   "Sprinklr": {},
   "Gupshup": {},
-  "Exotel": {},
+  "Exotel": {
+    "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
+      "title": "Sales Engineer Intern",
+      "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
+      "location": ""
+    }
+  },
   "Locus": {},
   "Shiprocket": {},
   "Porter": {},
