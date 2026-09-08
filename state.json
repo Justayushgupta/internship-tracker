@@ -18,13 +18,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949": {
-      "title": "Circuit Validation Engineer Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
-      "location": "China, Shanghai"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -188,7 +182,13 @@
   "Honeywell": {},
   "GE": {},
   "3M": {},
-  "Micron Technology": {},
+  "Micron Technology": {
+    "https://micron.eightfold.ai/careers/job/43943556": {
+      "title": "Intern - Software EngineerBoise, Idaho, United States of AmericaPosted 4 hours ago",
+      "url": "https://micron.eightfold.ai/careers/job/43943556",
+      "location": ""
+    }
+  },
   "Western Digital": {},
   "Synopsys": {},
   "Cadence Design Systems": {},
