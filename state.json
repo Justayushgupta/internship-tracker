@@ -18,7 +18,13 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334": {
+      "title": "System Software Engineering Intern, GPU - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
+      "location": "2 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -176,14 +182,14 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/job/S%C3%A3o-Leopoldo-SAP-I&CX-Sales-and-Service-Cloud-iXp-Intern-Technical-Support-93022-718/1435379233/": {
-      "title": "SAP I&CX Sales and Service Cloud iXp Intern - Technical Support",
-      "url": "https://jobs.sap.com/job/S%C3%A3o-Leopoldo-SAP-I&CX-Sales-and-Service-Cloud-iXp-Intern-Technical-Support-93022-718/1435379233/",
-      "location": ""
-    },
     "https://jobs.sap.com/job/S%C3%A3o-Leopoldo-SAP-I&CX-Industries-iXp-Intern-Technical-Support-93022-718/1435534933/": {
       "title": "SAP I&CX Industries iXp Intern - Technical Support",
       "url": "https://jobs.sap.com/job/S%C3%A3o-Leopoldo-SAP-I&CX-Industries-iXp-Intern-Technical-Support-93022-718/1435534933/",
+      "location": ""
+    },
+    "https://jobs.sap.com/job/S%C3%A3o-Leopoldo-SAP-I&CX-Sales-and-Service-Cloud-iXp-Intern-Technical-Support-93022-718/1435379233/": {
+      "title": "SAP I&CX Sales and Service Cloud iXp Intern - Technical Support",
+      "url": "https://jobs.sap.com/job/S%C3%A3o-Leopoldo-SAP-I&CX-Sales-and-Service-Cloud-iXp-Intern-Technical-Support-93022-718/1435379233/",
       "location": ""
     },
     "https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Developer-for-Web-Application-Xi&apos;an-710077/1377239633/": {
@@ -228,14 +234,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8118845": {
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
-      "location": "In-Office"
-    },
     "8118855": {
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "location": "In-Office"
+    },
+    "8118845": {
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office"
     },
     "8052785": {
