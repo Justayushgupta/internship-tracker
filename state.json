@@ -14,7 +14,48 @@
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California"
     }
   },
-  "Robinhood": {},
+  "Robinhood": {
+    "8142930": {
+      "title": "Software Developer Intern, Backend (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+      "location": "Toronto, Canada"
+    },
+    "8194428": {
+      "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428",
+      "location": "Toronto, Canada"
+    },
+    "8199729": {
+      "title": "Software Developer Intern, iOS (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
+      "location": "Toronto, Canada"
+    },
+    "8199744": {
+      "title": "Software Developer Intern, Web (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
+      "location": "Toronto, Canada"
+    },
+    "8142961": {
+      "title": "Software Engineering Intern, Android (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+      "location": "Menlo Park, CA; New York, NY"
+    },
+    "8123225": {
+      "title": "Software Engineering Intern, Backend (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY"
+    },
+    "8142959": {
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+      "location": "Menlo Park, CA; New York, NY"
+    },
+    "8142963": {
+      "title": "Software Engineering Intern, Web (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+      "location": "Menlo Park, CA; New York, NY"
+    }
+  },
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
@@ -204,13 +245,7 @@
   "Honeywell": {},
   "GE": {},
   "3M": {},
-  "Micron Technology": {
-    "https://micron.eightfold.ai/careers/job/43943556": {
-      "title": "Intern - Software EngineerBoise, Idaho, United States of AmericaPosted 6 days ago",
-      "url": "https://micron.eightfold.ai/careers/job/43943556",
-      "location": ""
-    }
-  },
+  "Micron Technology": {},
   "Western Digital": {},
   "Synopsys": {},
   "Cadence Design Systems": {},
