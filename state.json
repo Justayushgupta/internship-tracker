@@ -59,13 +59,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971": {
-      "title": "Linux for Edge System Software Engineer (RDSS intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
-      "location": "Taiwan, Taipei"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -73,13 +67,7 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
-      "title": "Software Development Intern, Intech",
-      "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
-      "location": ""
-    }
-  },
+  "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
@@ -119,7 +107,28 @@
   "Visa": {},
   "Mastercard": {},
   "PayPal": {},
-  "Intuit": {},
+  "Intuit": {
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
+      "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568": {
+      "title": "Summer 2027: Mobile Software Engineering Intern - iOSMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552": {
+      "title": "Summer 2027: Mobile Software Engineering Intern - AndroidMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520": {
+      "title": "Summer 2027: Software Engineering Intern - Full StackMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520",
+      "location": ""
+    }
+  },
   "Palo Alto Networks": {},
   "Texas Instruments": {},
   "PhonePe": {},
