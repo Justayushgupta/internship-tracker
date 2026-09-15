@@ -73,7 +73,13 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {},
+  "Amazon": {
+    "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
+      "title": "Software Development Intern, Intech",
+      "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
+      "location": ""
+    }
+  },
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
