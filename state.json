@@ -82,7 +82,13 @@
   "Ramp": {},
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393556991773": {
+      "title": "Software Engineer Internship OpportunitiesCanada, British Columbia, VancouverPosted a day ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556991773",
+      "location": ""
+    }
+  },
   "Amazon": {
     "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
       "title": "Software Development Intern, Intech",
