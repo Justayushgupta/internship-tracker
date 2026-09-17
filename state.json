@@ -229,7 +229,13 @@
   "PwC": {},
   "KPMG": {},
   "Cognizant": {},
-  "ThoughtWorks": {},
+  "ThoughtWorks": {
+    "https://www.thoughtworks.com/careers/jobs/8210384": {
+      "title": "Developer (Vapasi) - Intern",
+      "url": "https://www.thoughtworks.com/careers/jobs/8210384",
+      "location": ""
+    }
+  },
   "Globant": {},
   "EPAM Systems": {},
   "ISRO": {},
@@ -260,7 +266,13 @@
   "Honeywell": {},
   "GE": {},
   "3M": {},
-  "Micron Technology": {},
+  "Micron Technology": {
+    "https://micron.eightfold.ai/careers/job/43943556": {
+      "title": "Intern - Software EngineerBoise, Idaho, United States of AmericaPosted 17 hours ago",
+      "url": "https://micron.eightfold.ai/careers/job/43943556",
+      "location": ""
+    }
+  },
   "Western Digital": {},
   "Synopsys": {},
   "Cadence Design Systems": {},
