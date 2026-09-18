@@ -72,14 +72,24 @@
   "Ramp": {},
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
-  "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
-      "title": "Software Development Intern, Intech",
-      "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393556982258": {
+      "title": "Software Engineering Internship (6-month Program)United States, California, Santa Clara + 1 morePosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556982258",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556982259": {
+      "title": "Silicon Engineering Internship (6-month Program)United States, California, Mountain View + 1 morePosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556982259",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393556982262": {
+      "title": "Electrical Engineering Internship (6-Month Program)United States, Washington, Seattle + 2 morePosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556982262",
       "location": ""
     }
   },
+  "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
