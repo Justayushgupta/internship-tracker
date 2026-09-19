@@ -68,7 +68,7 @@
   "Google": {},
   "Microsoft": {
     "https://jobs.careers.microsoft.com/careers/job/1970393557002608": {
-      "title": "Hardware Engineering Internship (6-Month Program)United States, Washington, RedmondPosted 3 hours ago",
+      "title": "Hardware Engineering Internship (6-Month Program)United States, Washington, RedmondPosted 10 hours ago",
       "url": "https://jobs.careers.microsoft.com/careers/job/1970393557002608",
       "location": ""
     }
@@ -103,7 +103,13 @@
   "Uber": {},
   "Atlassian": {},
   "Dell Technologies": {},
-  "HPE": {},
+  "HPE": {
+    "https://careers.hpe.com/us/en/job/1213396/HPC-AI-Systems-Administrator-Intern": {
+      "title": "HPC AI Systems Administrator Intern",
+      "url": "https://careers.hpe.com/us/en/job/1213396/HPC-AI-Systems-Administrator-Intern",
+      "location": ""
+    }
+  },
   "ServiceNow": {},
   "Walmart Global Tech": {},
   "Goldman Sachs": {},
