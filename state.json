@@ -64,11 +64,6 @@
       "title": "System Software Engineer - USB (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1",
       "location": "Taiwan, Taipei"
-    },
-    "/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783": {
-      "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
-      "location": "2 Locations"
     }
   },
   "Qualcomm": {},
@@ -78,7 +73,13 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {},
+  "Amazon": {
+    "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
+      "title": "Software Development Intern, Intech",
+      "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
+      "location": ""
+    }
+  },
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
