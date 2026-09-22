@@ -60,6 +60,11 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1": {
+      "title": "System Software Engineer - USB (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1",
+      "location": "Taiwan, Taipei"
+    },
     "/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783": {
       "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
@@ -256,7 +261,13 @@
     }
   },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/587413/Intern-Data-Science-and-AI-Engineering": {
+      "title": "Intern – Data Science and AI Engineering",
+      "url": "https://www.careers.philips.com/global/en/job/587413/Intern-Data-Science-and-AI-Engineering",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
