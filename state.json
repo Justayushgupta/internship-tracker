@@ -59,38 +59,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170": {
-      "title": "AI Computing Software Intern, GPU Kernel Libraries - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
-      "location": "2 Locations"
-    },
-    "/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173": {
-      "title": "AI Computing Software Development Intern, LLM Inference - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
-      "location": "2 Locations"
-    },
-    "/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171": {
-      "title": "Performance Software Intern, Deep Learning Libraries - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
-      "location": "2 Locations"
-    },
-    "/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164": {
-      "title": "AI Computing Software Development Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
-      "location": "2 Locations"
-    },
-    "/job/China-Shanghai/AI-Computing-Development-Intern--TensorRT-LLM---2027_JR2026160": {
-      "title": "AI Computing Development Intern, TensorRT-LLM - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Computing-Development-Intern--TensorRT-LLM---2027_JR2026160",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177": {
-      "title": "Software Engineering Intern, Compiler Verification - Spring 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177",
-      "location": "2 Locations"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
