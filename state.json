@@ -63,7 +63,28 @@
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
-  "Ramp": {},
+  "Ramp": {
+    "a13ae586-f4cb-4385-8822-c42b9b54ed74": {
+      "title": "Software Engineer Internship, Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+      "location": ""
+    },
+    "acf6b28d-767f-483f-8ff2-114620cd7e04": {
+      "title": "Software Engineering Intern, Backend",
+      "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+      "location": ""
+    },
+    "fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
+      "title": "Software Engineering Intern, Android",
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+      "location": ""
+    },
+    "b66be397-240b-41a6-9b05-493299b270a9": {
+      "title": "Software Engineering Intern, iOS",
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+      "location": ""
+    }
+  },
   "Deel": {},
   "Google": {},
   "Microsoft": {},
