@@ -89,7 +89,7 @@
   "Google": {},
   "Microsoft": {
     "https://jobs.careers.microsoft.com/careers/job/1970393557004819": {
-      "title": "Software Engineer: Intern Opportunity for University StudentsUnited States, California, Mountain ViewPosted 10 hours ago",
+      "title": "Software Engineer: Intern Opportunity for University StudentsUnited States, California, Mountain ViewPosted 15 hours ago",
       "url": "https://jobs.careers.microsoft.com/careers/job/1970393557004819",
       "location": ""
     }
@@ -231,7 +231,13 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846": {
+      "title": "Audit & Assurance –  Intern – Data & Analytics – Summer 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846",
+      "location": ""
+    }
+  },
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
