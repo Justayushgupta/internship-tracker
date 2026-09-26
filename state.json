@@ -87,7 +87,18 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393557004819": {
+      "title": "Software Engineer: Intern Opportunity for University StudentsUnited States, California, Mountain ViewPosted 3 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557004819",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393557008574": {
+      "title": "Research Intern - Data SystemsUnited States, Washington, RedmondPosted 5 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557008574",
+      "location": ""
+    }
+  },
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
