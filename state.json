@@ -59,18 +59,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402": {
-      "title": "AI Infra Development Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437": {
-      "title": "Managed Language Compiler Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437",
-      "location": "China, Shanghai"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -98,13 +87,7 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393557007677": {
-      "title": "Software Engineer Internship OpportunitiesRomania, Bucharest, Bucharest + 2 morePosted 2 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557007677",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -310,7 +293,13 @@
   "Zendesk": {},
   "HubSpot": {},
   "DigitalOcean": {},
-  "Cloudflare": {},
+  "Cloudflare": {
+    "8199958": {
+      "title": "Software Engineer Intern (2027) - Austin, TX",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+      "location": "In-Office"
+    }
+  },
   "Fastly": {},
   "Grafana Labs": {},
   "Turing": {},
