@@ -59,7 +59,18 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402": {
+      "title": "AI Infra Development Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437": {
+      "title": "Managed Language Compiler Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437",
+      "location": "China, Shanghai"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -87,7 +98,13 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393557007677": {
+      "title": "Software Engineer Internship OpportunitiesRomania, Bucharest, Bucharest + 2 morePosted 2 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557007677",
+      "location": ""
+    }
+  },
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -248,6 +265,11 @@
     "https://www.thoughtworks.com/careers/jobs/8210384": {
       "title": "Developer (Vapasi) - Intern",
       "url": "https://www.thoughtworks.com/careers/jobs/8210384",
+      "location": ""
+    },
+    "https://www.thoughtworks.com/careers/jobs/8236673": {
+      "title": "Software Procurement Intern",
+      "url": "https://www.thoughtworks.com/careers/jobs/8236673",
       "location": ""
     }
   },
