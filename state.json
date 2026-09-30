@@ -64,7 +64,23 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
+      "location": "5 Locations"
+    },
+    "/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307": {
+      "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966": {
+      "title": "Deep Learning Performance Software Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
+      "location": "2 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -248,13 +264,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000152645159/internship-ai-automation-developer-fm/": {
-      "title": "Internship: AI Automation Developer F/M",
-      "url": "https://jobs.sap.com/en/jobs/744000152645159/internship-ai-automation-developer-fm/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
