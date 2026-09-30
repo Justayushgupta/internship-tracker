@@ -248,7 +248,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000152645159/internship-ai-automation-developer-fm/": {
+      "title": "Internship: AI Automation Developer F/M",
+      "url": "https://jobs.sap.com/en/jobs/744000152645159/internship-ai-automation-developer-fm/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
