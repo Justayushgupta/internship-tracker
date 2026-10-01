@@ -64,23 +64,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
-      "title": "Developer Technology Engineering Intern - Compute Performance",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
-      "location": "5 Locations"
-    },
-    "/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307": {
-      "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966": {
-      "title": "Deep Learning Performance Software Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
-      "location": "2 Locations"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -153,6 +137,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360": {
+      "title": "Summer 2027: Business Data Analyst Intern, Strategy & PlanningMountain View, California",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
       "location": ""
     }
   },
@@ -231,13 +220,7 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846": {
-      "title": "Audit & Assurance –  Intern – Data & Analytics – Summer 2027",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846",
-      "location": ""
-    }
-  },
+  "Deloitte": {},
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -264,7 +247,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000152989720/sap-labs-ixp-intern-associate-data-scientist/": {
+      "title": "SAP Labs iXp Intern - Associate Data Scientist",
+      "url": "https://jobs.sap.com/en/jobs/744000152989720/sap-labs-ixp-intern-associate-data-scientist/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
