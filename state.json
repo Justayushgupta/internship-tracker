@@ -8,6 +8,31 @@
     }
   },
   "Databricks": {
+    "8133710002": {
+      "title": "Software Engineering Intern (2027 Start) - Aarhus",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
+      "location": "Aarhus, Denmark"
+    },
+    "6866534002": {
+      "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+      "location": "Amsterdam, Netherlands"
+    },
+    "7640764002": {
+      "title": "Software Engineering Intern (2027 Start) - Belgrade",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
+      "location": "Belgrade, Serbia"
+    },
+    "6866531002": {
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
+      "location": "Berlin, Germany"
+    },
+    "8847738002": {
+      "title": "Software Engineering Intern (2027 Start) - London",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+      "location": "London, United Kingdom"
+    },
     "8732364002": {
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
@@ -139,9 +164,9 @@
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
     },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360": {
-      "title": "Summer 2027: Business Data Analyst Intern, Strategy & PlanningMountain View, California",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -257,11 +282,6 @@
     "https://jobs.sap.com/en/jobs/744000153159823/sap-ixp-intern-it-data-analytics-limited-part-time/": {
       "title": "SAP iXp Intern - IT Data & Analytics (limited, part time)",
       "url": "https://jobs.sap.com/en/jobs/744000153159823/sap-ixp-intern-it-data-analytics-limited-part-time/",
-      "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000152989720/sap-labs-ixp-intern-associate-data-scientist/": {
-      "title": "SAP Labs iXp Intern - Associate Data Scientist",
-      "url": "https://jobs.sap.com/en/jobs/744000152989720/sap-labs-ixp-intern-associate-data-scientist/",
       "location": ""
     }
   },
