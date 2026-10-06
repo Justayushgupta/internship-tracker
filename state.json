@@ -90,10 +90,15 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
-    "/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567": {
-      "title": "GPU Compiler LLVM Backend Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567",
-      "location": "China, Shanghai"
+    "/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645": {
+      "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645",
+      "location": "Taiwan, Taipei"
+    },
+    "/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030": {
+      "title": "APAC Ecommerce Backend Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030",
+      "location": "2 Locations"
     }
   },
   "Qualcomm": {},
@@ -124,13 +129,7 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {
-    "https://www.amazon.jobs/en/jobs/10568804/operations-engineer-intern-field": {
-      "title": "Operations Engineer Intern (Field)",
-      "url": "https://www.amazon.jobs/en/jobs/10568804/operations-engineer-intern-field",
-      "location": ""
-    }
-  },
+  "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
@@ -330,6 +329,16 @@
       "title": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
       "location": "Hybrid"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
     },
     "8199958": {
       "title": "Software Engineer Intern (2027) - Austin, TX",
