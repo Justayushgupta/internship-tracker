@@ -174,11 +174,6 @@
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360": {
-      "title": "Summer 2027: Business Data Analyst Intern, Strategy & PlanningMountain View, California",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
-      "location": ""
     }
   },
   "Palo Alto Networks": {},
@@ -294,7 +289,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000153694300/internship-ai-automation-developer-fm/": {
+      "title": "Internship – AI Automation Developer F/M",
+      "url": "https://jobs.sap.com/en/jobs/744000153694300/internship-ai-automation-developer-fm/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
@@ -330,14 +331,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
       "location": "Hybrid"
     },
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
