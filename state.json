@@ -240,7 +240,13 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846": {
+      "title": "Audit & Assurance –  Intern – Data & Analytics – Summer 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846",
+      "location": ""
+    }
+  },
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -303,19 +309,19 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8241790": {
-      "title": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
+    "7774167": {
+      "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
       "location": "Hybrid"
-    },
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
     },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
