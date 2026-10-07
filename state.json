@@ -278,7 +278,23 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000154062390/internship-quality-engineer-and-consultant-for-sap-build-process-automation-fm/": {
+      "title": "Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M",
+      "url": "https://jobs.sap.com/en/jobs/744000154062390/internship-quality-engineer-and-consultant-for-sap-build-process-automation-fm/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000154049239/sap-ixp-intern-cpit-cfa-ai-engineer/": {
+      "title": "SAP iXp Intern - CPIT CFA AI Engineer",
+      "url": "https://jobs.sap.com/en/jobs/744000154049239/sap-ixp-intern-cpit-cfa-ai-engineer/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000154048119/internship-full-stack-developer-for-sap-build-process-automation-fm/": {
+      "title": "Internship – Full-Stack Developer for SAP Build Process Automation F/M",
+      "url": "https://jobs.sap.com/en/jobs/744000154048119/internship-full-stack-developer-for-sap-build-process-automation-fm/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
@@ -314,14 +330,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
       "location": "Hybrid"
     },
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
