@@ -89,7 +89,18 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767": {
+      "title": "Silicon Validation Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767",
+      "location": "Taiwan, Taipei"
+    },
+    "/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301": {
+      "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301",
+      "location": "2 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -279,14 +290,25 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000154295359/sap-china-ixp-intern-intern-queue-manager-for-technical-support-dalian/": {
+    "https://jobs.sap.com/en/jobs/744000154357269/sap-china-ixp-intern-intern-queue-manager-for-technical-support-dalian/": {
       "title": "SAP China iXp Intern - Intern Queue Manager for Technical Support - Dalian",
-      "url": "https://jobs.sap.com/en/jobs/744000154295359/sap-china-ixp-intern-intern-queue-manager-for-technical-support-dalian/",
+      "url": "https://jobs.sap.com/en/jobs/744000154357269/sap-china-ixp-intern-intern-queue-manager-for-technical-support-dalian/",
       "location": ""
     }
   },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/590503/Intern-Data-Science-and-AI-Engineering": {
+      "title": "Intern – Data Science and AI Engineering",
+      "url": "https://www.careers.philips.com/global/en/job/590503/Intern-Data-Science-and-AI-Engineering",
+      "location": ""
+    },
+    "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1": {
+      "title": "Apprentice Trainee (Software Developer Level 1)",
+      "url": "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
@@ -320,14 +342,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
       "location": "Hybrid"
     },
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
