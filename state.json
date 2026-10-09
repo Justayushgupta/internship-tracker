@@ -118,7 +118,13 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {},
+  "Amazon": {
+    "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
+      "title": "Software Development Intern, Intech",
+      "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
+      "location": ""
+    }
+  },
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
@@ -240,7 +246,13 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846": {
+      "title": "Audit & Assurance –  Intern – Data & Analytics – Summer 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2027/361846",
+      "location": ""
+    }
+  },
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -287,7 +299,13 @@
   "Broadcom": {},
   "Analog Devices": {},
   "HashiCorp": {},
-  "MongoDB": {},
+  "MongoDB": {
+    "8258279": {
+      "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+      "location": "Dublin"
+    }
+  },
   "Elastic": {},
   "Confluent": {},
   "GitLab": {},
