@@ -40,11 +40,6 @@
     }
   },
   "Robinhood": {
-    "8241738": {
-      "title": "Data Science Intern (Summer 2027)",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
-      "location": "Menlo Park, CA"
-    },
     "8142930": {
       "title": "Software Developer Intern, Backend (Summer 2027)",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
@@ -89,7 +84,53 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406": {
+      "title": "System Software Engineering Intern, GPU and SOC - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406",
+      "location": "Taiwan, Taipei"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477": {
+      "title": "Software Engineering Intern, AI Agent Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479": {
+      "title": "Software Engineering Intern, DGX Cloud Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347": {
+      "title": "Test Development Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1": {
+      "title": "Software Engineering Intern, DGX Cloud Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472": {
+      "title": "Test Development Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869": {
+      "title": "Software Engineering Intern, AI CI/CD Infrastructure – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544": {
+      "title": "MLOps Physical AI Data Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758": {
+      "title": "Robotics Software Intern, Humanoid Robotics - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758",
+      "location": "China, Shanghai"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -118,7 +159,13 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {},
+  "Amazon": {
+    "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
+      "title": "Software Development Intern, Intech",
+      "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
+      "location": ""
+    }
+  },
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
@@ -254,11 +301,6 @@
   "KPMG": {},
   "Cognizant": {},
   "ThoughtWorks": {
-    "https://www.thoughtworks.com/careers/jobs/8210384": {
-      "title": "Developer (Vapasi) - Intern",
-      "url": "https://www.thoughtworks.com/careers/jobs/8210384",
-      "location": ""
-    },
     "https://www.thoughtworks.com/careers/jobs/8236673": {
       "title": "Software Procurement Intern",
       "url": "https://www.thoughtworks.com/careers/jobs/8236673",
@@ -272,13 +314,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000154919159/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
-      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
-      "url": "https://jobs.sap.com/en/jobs/744000154919159/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
@@ -320,14 +356,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
       "location": "Hybrid"
     },
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
