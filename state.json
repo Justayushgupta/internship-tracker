@@ -8,6 +8,11 @@
     }
   },
   "Databricks": {
+    "6865687002": {
+      "title": "Software Engineering Intern (2027)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada"
+    },
     "8133710002": {
       "title": "Software Engineering Intern (2027 Start) - Aarhus",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
@@ -85,50 +90,10 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
-    "/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406": {
-      "title": "System Software Engineering Intern, GPU and SOC - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406",
-      "location": "Taiwan, Taipei"
-    },
-    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477": {
-      "title": "Software Engineering Intern, AI Agent Test Development - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479": {
-      "title": "Software Engineering Intern, DGX Cloud Test Development - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347": {
-      "title": "Test Development Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1": {
-      "title": "Software Engineering Intern, DGX Cloud Test Development - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472": {
-      "title": "Test Development Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869": {
-      "title": "Software Engineering Intern, AI CI/CD Infrastructure – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544": {
-      "title": "MLOps Physical AI Data Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758": {
-      "title": "Robotics Software Intern, Humanoid Robotics - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758",
-      "location": "China, Shanghai"
+    "/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": {
+      "title": "Software Engineering Intern, Deep Learning - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596",
+      "location": "2 Locations"
     }
   },
   "Qualcomm": {},
@@ -314,7 +279,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000155102439/internship-commerce-cloud-support-engineer/": {
+      "title": "Internship - Commerce Cloud Support Engineer",
+      "url": "https://jobs.sap.com/en/jobs/744000155102439/internship-commerce-cloud-support-engineer/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
