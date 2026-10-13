@@ -89,7 +89,23 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907": {
+      "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
+      "location": "US, CA, Santa Clara"
+    },
+    "/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708": {
+      "title": "Data Processing Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+      "location": "4 Locations"
+    },
+    "/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
+      "location": "3 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -118,13 +134,7 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {},
-  "Amazon": {
-    "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech": {
-      "title": "Software Development Intern, Intech",
-      "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech",
-      "location": ""
-    }
-  },
+  "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
@@ -152,7 +162,43 @@
   "Cisco": {},
   "IBM": {},
   "Uber": {},
-  "Atlassian": {},
+  "Atlassian": {
+    "https://www.atlassian.com/company/careers/details/26272": {
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26272",
+      "location": ""
+    },
+    "https://www.atlassian.com/company/careers/details/26268": {
+      "title": "Machine Learning Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26268",
+      "location": ""
+    },
+    "https://www.atlassian.com/company/careers/details/26271": {
+      "title": "Data Scientist Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26271",
+      "location": ""
+    },
+    "https://www.atlassian.com/company/careers/details/26267": {
+      "title": "Security Engineer Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26267",
+      "location": ""
+    },
+    "https://www.atlassian.com/company/careers/details/26275": {
+      "title": "Software Engineer Intern, 2027 Canada",
+      "url": "https://www.atlassian.com/company/careers/details/26275",
+      "location": ""
+    },
+    "https://www.atlassian.com/company/careers/details/26843": {
+      "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26843",
+      "location": ""
+    },
+    "https://www.atlassian.com/company/careers/details/26266": {
+      "title": "Software Engineer Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26266",
+      "location": ""
+    }
+  },
   "Dell Technologies": {},
   "HPE": {},
   "ServiceNow": {},
@@ -274,9 +320,14 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000155102439/internship-commerce-cloud-support-engineer/": {
-      "title": "Internship - Commerce Cloud Support Engineer",
-      "url": "https://jobs.sap.com/en/jobs/744000155102439/internship-commerce-cloud-support-engineer/",
+    "https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/": {
+      "title": "Copy of SAP iXp Intern - Technical Quality Manager | Services Engagement",
+      "url": "https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/": {
+      "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
+      "url": "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/",
       "location": ""
     }
   },
@@ -316,14 +367,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
