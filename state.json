@@ -278,18 +278,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/": {
-      "title": "Copy of SAP iXp Intern - Technical Quality Manager | Services Engagement",
-      "url": "https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/",
-      "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/": {
-      "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
-      "url": "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
@@ -326,14 +315,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
