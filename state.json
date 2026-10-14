@@ -48,23 +48,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948": {
-      "title": "Data Processing Developer Technology Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
-      "location": "2 Locations"
-    },
-    "/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334": {
-      "title": "System Software Engineering Intern, GPU - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
-      "location": "2 Locations"
-    },
-    "/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948": {
-      "title": "System Software Engineer - Base OS (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
-      "location": "Taiwan, Taipei"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
