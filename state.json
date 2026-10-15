@@ -48,7 +48,18 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829": {
+      "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
+      "location": "2 Locations"
+    },
+    "/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949": {
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
+      "location": "2 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -235,7 +246,13 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857": {
+      "title": "Audit & Assurance  –  Intern –  AI and Data Science – Winter 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
+      "location": ""
+    }
+  },
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -262,25 +279,20 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000155746249/technical-associate-sap-uk-intern-13-month-placement/": {
+      "title": "Technical Associate - SAP UK Intern (13 Month Placement)",
+      "url": "https://jobs.sap.com/en/jobs/744000155746249/technical-associate-sap-uk-intern-13-month-placement/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
   "3M": {},
-  "Micron Technology": {
-    "https://micron.eightfold.ai/careers/job/44853670": {
-      "title": "Intern - IT Software EngineerBoise, Idaho, United States of AmericaPosted 6 days ago",
-      "url": "https://micron.eightfold.ai/careers/job/44853670",
-      "location": ""
-    },
-    "https://micron.eightfold.ai/careers/job/44777622": {
-      "title": "Intern - SMAI TD AI Engineering TeamBoise, Idaho, United States of AmericaPosted 10 days ago",
-      "url": "https://micron.eightfold.ai/careers/job/44777622",
-      "location": ""
-    }
-  },
+  "Micron Technology": {},
   "Western Digital": {},
   "Synopsys": {},
   "Cadence Design Systems": {},
@@ -310,14 +322,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
