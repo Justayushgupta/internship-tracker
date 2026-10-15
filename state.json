@@ -65,7 +65,7 @@
   "Vercel": {},
   "Ramp": {
     "a13ae586-f4cb-4385-8822-c42b9b54ed74": {
-      "title": "Software Engineer Internship, Frontend",
+      "title": "Software Engineering Intern, Frontend",
       "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
       "location": ""
     },
@@ -279,13 +279,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000155746249/technical-associate-sap-uk-intern-13-month-placement/": {
-      "title": "Technical Associate - SAP UK Intern (13 Month Placement)",
-      "url": "https://jobs.sap.com/en/jobs/744000155746249/technical-associate-sap-uk-intern-13-month-placement/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
@@ -322,14 +316,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
