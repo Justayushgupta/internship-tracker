@@ -48,7 +48,13 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826": {
+      "title": "Developer Tools DevOps Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
+      "location": "Poland, Warsaw"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -76,13 +82,7 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393557041731": {
-      "title": "Research Intern - Efficient AI Software SystemsUnited States, Washington, RedmondPosted 4 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557041731",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -274,13 +274,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000155853065/sap-ixp-intern-technical-quality-manager-services-engagement/": {
-      "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
-      "url": "https://jobs.sap.com/en/jobs/744000155853065/sap-ixp-intern-technical-quality-manager-services-engagement/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
