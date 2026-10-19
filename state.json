@@ -48,7 +48,33 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707": {
+      "title": "Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476": {
+      "title": "Software Engineering Intern, AI Agent Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478": {
+      "title": "Software Engineering Intern, AI Agent Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630": {
+      "title": "Software Engineer Intern, Robotics - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468": {
+      "title": "AI Developer Intern — Interconnect Hardware Frontend, 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468",
+      "location": "China, Shanghai"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -305,14 +331,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
