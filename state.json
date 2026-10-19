@@ -48,33 +48,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707": {
-      "title": "Software Engineering Intern, Test Development - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476": {
-      "title": "Software Engineering Intern, AI Agent Test Development - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478": {
-      "title": "Software Engineering Intern, AI Agent Test Development - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630": {
-      "title": "Software Engineer Intern, Robotics - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468": {
-      "title": "AI Developer Intern — Interconnect Hardware Frontend, 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468",
-      "location": "China, Shanghai"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -113,6 +87,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer": {
+      "title": "2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
     },
     "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer": {
