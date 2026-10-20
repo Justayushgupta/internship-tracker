@@ -37,11 +37,6 @@
       "title": "Software Engineering Intern (2027 Start) - London",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
       "location": "London, United Kingdom"
-    },
-    "8732364002": {
-      "title": "Software Engineering Intern (2027 Start) - Winter",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California"
     }
   },
   "Robinhood": {},
@@ -63,11 +58,6 @@
       "title": "AI Compiler Formal Verification Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
       "location": "Switzerland, Zurich"
-    },
-    "/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
-      "title": "Developer Technology Engineering Intern - Compute Performance",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210",
-      "location": "3 Locations"
     }
   },
   "Qualcomm": {},
@@ -299,7 +289,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000156470219/sap-ixp-intern-technical-support-dalian/": {
+      "title": "SAP iXp Intern Technical Support - Dalian",
+      "url": "https://jobs.sap.com/en/jobs/744000156470219/sap-ixp-intern-technical-support-dalian/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
