@@ -49,6 +49,21 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569": {
+      "title": "Image and Data Processing Libraries Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569",
+      "location": "2 Locations"
+    },
+    "/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497": {
+      "title": "AI Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+      "location": "Germany, Munich"
+    },
+    "/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": {
+      "title": "AI Compiler Formal Verification Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
+      "location": "Switzerland, Zurich"
+    },
     "/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210",
@@ -284,13 +299,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000156523820/demo-solution-engineer-intern/": {
-      "title": "Demo Solution Engineer Intern",
-      "url": "https://jobs.sap.com/en/jobs/744000156523820/demo-solution-engineer-intern/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
@@ -327,14 +336,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
