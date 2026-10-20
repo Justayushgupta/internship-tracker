@@ -48,7 +48,13 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210",
+      "location": "3 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -278,7 +284,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000156523820/demo-solution-engineer-intern/": {
+      "title": "Demo Solution Engineer Intern",
+      "url": "https://jobs.sap.com/en/jobs/744000156523820/demo-solution-engineer-intern/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
