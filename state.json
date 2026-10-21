@@ -44,20 +44,15 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948": {
+      "title": "System Software Engineer - Base OS (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
+      "location": "Taiwan, Taipei"
+    },
     "/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546": {
       "title": "GPU Computing Software Engineering Intern, Autonomous Driving - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546",
       "location": "2 Locations"
-    },
-    "/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1": {
-      "title": "Software Intern - Embedded Systems 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
-      "location": "UK, Bristol"
-    },
-    "/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530": {
-      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
-      "location": "US, CA, Santa Clara"
     }
   },
   "Qualcomm": {},
@@ -300,9 +295,9 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000156746369/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/": {
-      "title": "SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai",
-      "url": "https://jobs.sap.com/en/jobs/744000156746369/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/",
+    "https://jobs.sap.com/en/jobs/744000156888951/sap-ixp-intern-order-to-invoice-cloud-software-support/": {
+      "title": "SAP iXp Intern – Order to Invoice Cloud, Software & Support",
+      "url": "https://jobs.sap.com/en/jobs/744000156888951/sap-ixp-intern-order-to-invoice-cloud-software-support/",
       "location": ""
     }
   },
@@ -342,14 +337,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
