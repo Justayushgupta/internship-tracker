@@ -43,7 +43,18 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1": {
+      "title": "Software Intern - Embedded Systems 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
+      "location": "UK, Bristol"
+    },
+    "/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530": {
+      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+      "location": "US, CA, Santa Clara"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -71,13 +82,7 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393557043457": {
-      "title": "Data Science Internship OpportunitiesIsrael, Tel Aviv, HerzliyaPosted a day ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557043457",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -289,7 +294,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000156746369/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/": {
+      "title": "SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai",
+      "url": "https://jobs.sap.com/en/jobs/744000156746369/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
