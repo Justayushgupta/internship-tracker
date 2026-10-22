@@ -8,6 +8,11 @@
     }
   },
   "Databricks": {
+    "6866538002": {
+      "title": "Data Science Intern (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+      "location": "Mountain View, California; San Francisco, California"
+    },
     "6865687002": {
       "title": "Software Engineering Intern (2027)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
@@ -48,16 +53,6 @@
       "title": "AI Agent Engineer Intern, AI Enablement Process - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1",
       "location": "China, Beijing"
-    },
-    "/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560": {
-      "title": "Client System Firmware Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560",
-      "location": "Taiwan, Taipei"
-    },
-    "/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055": {
-      "title": "Enterprise System Firmware Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055",
-      "location": "Taiwan, Taipei"
     }
   },
   "Qualcomm": {},
@@ -298,11 +293,6 @@
       "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
       "url": "https://jobs.sap.com/en/jobs/744000157147079/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
       "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000157145124/sap-ixp-intern-technical-support-dalian/": {
-      "title": "SAP iXp Intern Technical Support - Dalian",
-      "url": "https://jobs.sap.com/en/jobs/744000157145124/sap-ixp-intern-technical-support-dalian/",
-      "location": ""
     }
   },
   "Siemens": {},
@@ -341,14 +331,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
