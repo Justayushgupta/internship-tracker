@@ -266,7 +266,13 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857": {
+      "title": "Audit & Assurance  –  Intern –  AI and Data Science – Winter 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
+      "location": ""
+    }
+  },
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -279,13 +285,7 @@
   "PwC": {},
   "KPMG": {},
   "Cognizant": {},
-  "ThoughtWorks": {
-    "https://www.thoughtworks.com/careers/jobs/8236673": {
-      "title": "Software Procurement Intern",
-      "url": "https://www.thoughtworks.com/careers/jobs/8236673",
-      "location": ""
-    }
-  },
+  "ThoughtWorks": {},
   "Globant": {},
   "EPAM Systems": {},
   "ISRO": {},
@@ -294,6 +294,16 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
+    "https://jobs.sap.com/en/jobs/744000157043870/sap-ixp-intern-concur-abm-and-ai-specialist/": {
+      "title": "SAP iXp Intern Concur – ABM and AI Specialist",
+      "url": "https://jobs.sap.com/en/jobs/744000157043870/sap-ixp-intern-concur-abm-and-ai-specialist/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000157039749/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/": {
+      "title": "SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai",
+      "url": "https://jobs.sap.com/en/jobs/744000157039749/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/",
+      "location": ""
+    },
     "https://jobs.sap.com/en/jobs/744000157002029/sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling/": {
       "title": "SAP China iXp Intern – Cloud Engineer for SAP HANA Cloud Tooling",
       "url": "https://jobs.sap.com/en/jobs/744000157002029/sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling/",
