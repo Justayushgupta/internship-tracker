@@ -44,6 +44,11 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1": {
+      "title": "AI Agent Engineer Intern, AI Enablement Process - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1",
+      "location": "China, Beijing"
+    },
     "/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560": {
       "title": "Client System Firmware Engineer (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560",
@@ -52,11 +57,6 @@
     "/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055": {
       "title": "Enterprise System Firmware Engineer (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055",
-      "location": "Taiwan, Taipei"
-    },
-    "/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948": {
-      "title": "System Software Engineer - Base OS (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
       "location": "Taiwan, Taipei"
     }
   },
@@ -294,24 +294,14 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000157043870/sap-ixp-intern-concur-abm-and-ai-specialist/": {
-      "title": "SAP iXp Intern Concur – ABM and AI Specialist",
-      "url": "https://jobs.sap.com/en/jobs/744000157043870/sap-ixp-intern-concur-abm-and-ai-specialist/",
+    "https://jobs.sap.com/en/jobs/744000157147079/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
+      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
+      "url": "https://jobs.sap.com/en/jobs/744000157147079/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
       "location": ""
     },
-    "https://jobs.sap.com/en/jobs/744000157039749/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/": {
-      "title": "SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai",
-      "url": "https://jobs.sap.com/en/jobs/744000157039749/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/",
-      "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000157002029/sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling/": {
-      "title": "SAP China iXp Intern – Cloud Engineer for SAP HANA Cloud Tooling",
-      "url": "https://jobs.sap.com/en/jobs/744000157002029/sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling/",
-      "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000156888951/sap-ixp-intern-order-to-invoice-cloud-software-support/": {
-      "title": "SAP iXp Intern – Order to Invoice Cloud, Software & Support",
-      "url": "https://jobs.sap.com/en/jobs/744000156888951/sap-ixp-intern-order-to-invoice-cloud-software-support/",
+    "https://jobs.sap.com/en/jobs/744000157145124/sap-ixp-intern-technical-support-dalian/": {
+      "title": "SAP iXp Intern Technical Support - Dalian",
+      "url": "https://jobs.sap.com/en/jobs/744000157145124/sap-ixp-intern-technical-support-dalian/",
       "location": ""
     }
   },
