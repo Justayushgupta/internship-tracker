@@ -44,15 +44,20 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560": {
+      "title": "Client System Firmware Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560",
+      "location": "Taiwan, Taipei"
+    },
+    "/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055": {
+      "title": "Enterprise System Firmware Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055",
+      "location": "Taiwan, Taipei"
+    },
     "/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948": {
       "title": "System Software Engineer - Base OS (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
       "location": "Taiwan, Taipei"
-    },
-    "/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546": {
-      "title": "GPU Computing Software Engineering Intern, Autonomous Driving - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546",
-      "location": "2 Locations"
     }
   },
   "Qualcomm": {},
@@ -261,13 +266,7 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857": {
-      "title": "Audit & Assurance  –  Intern –  AI and Data Science – Winter 2027",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
-      "location": ""
-    }
-  },
+  "Deloitte": {},
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -295,6 +294,11 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
+    "https://jobs.sap.com/en/jobs/744000157002029/sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling/": {
+      "title": "SAP China iXp Intern – Cloud Engineer for SAP HANA Cloud Tooling",
+      "url": "https://jobs.sap.com/en/jobs/744000157002029/sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling/",
+      "location": ""
+    },
     "https://jobs.sap.com/en/jobs/744000156888951/sap-ixp-intern-order-to-invoice-cloud-software-support/": {
       "title": "SAP iXp Intern – Order to Invoice Cloud, Software & Support",
       "url": "https://jobs.sap.com/en/jobs/744000156888951/sap-ixp-intern-order-to-invoice-cloud-software-support/",
@@ -337,14 +341,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
