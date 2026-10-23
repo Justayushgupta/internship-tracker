@@ -48,13 +48,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1": {
-      "title": "AI Agent Engineer Intern, AI Enablement Process - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1",
-      "location": "China, Beijing"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -132,14 +126,14 @@
   "IBM": {},
   "Uber": {},
   "Atlassian": {
+    "https://www.atlassian.com/company/careers/details/26275": {
+      "title": "Software Engineer Intern, 2027 Canada",
+      "url": "https://www.atlassian.com/company/careers/details/26275",
+      "location": ""
+    },
     "https://www.atlassian.com/company/careers/details/26272": {
       "title": "Data Engineer Intern, 2027 Summer U.S.",
       "url": "https://www.atlassian.com/company/careers/details/26272",
-      "location": ""
-    },
-    "https://www.atlassian.com/company/careers/details/26268": {
-      "title": "Machine Learning Intern, 2027 Summer U.S.",
-      "url": "https://www.atlassian.com/company/careers/details/26268",
       "location": ""
     },
     "https://www.atlassian.com/company/careers/details/26271": {
@@ -147,24 +141,24 @@
       "url": "https://www.atlassian.com/company/careers/details/26271",
       "location": ""
     },
+    "https://www.atlassian.com/company/careers/details/26268": {
+      "title": "Machine Learning Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26268",
+      "location": ""
+    },
     "https://www.atlassian.com/company/careers/details/26267": {
       "title": "Security Engineer Intern, 2027 Summer U.S.",
       "url": "https://www.atlassian.com/company/careers/details/26267",
       "location": ""
     },
-    "https://www.atlassian.com/company/careers/details/26275": {
-      "title": "Software Engineer Intern, 2027 Canada",
-      "url": "https://www.atlassian.com/company/careers/details/26275",
+    "https://www.atlassian.com/company/careers/details/26266": {
+      "title": "Software Engineer Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26266",
       "location": ""
     },
     "https://www.atlassian.com/company/careers/details/26843": {
       "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
       "url": "https://www.atlassian.com/company/careers/details/26843",
-      "location": ""
-    },
-    "https://www.atlassian.com/company/careers/details/26266": {
-      "title": "Software Engineer Intern, 2027 Summer U.S.",
-      "url": "https://www.atlassian.com/company/careers/details/26266",
       "location": ""
     }
   },
@@ -261,13 +255,7 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857": {
-      "title": "Audit & Assurance  –  Intern –  AI and Data Science – Winter 2027",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
-      "location": ""
-    }
-  },
+  "Deloitte": {},
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -288,13 +276,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000157147079/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
-      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
-      "url": "https://jobs.sap.com/en/jobs/744000157147079/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
