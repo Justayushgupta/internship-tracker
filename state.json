@@ -48,7 +48,28 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205": {
+      "title": "Software Engineering Intern, AI Automation Infra - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186": {
+      "title": "Software Engineer Intern - NVEX, 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186",
+      "location": "China, Beijing"
+    },
+    "/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298": {
+      "title": "System Software Engineer Intern, Embedded - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784": {
+      "title": "Deep Learning Model and System Optimization Engineering Intern – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
+      "location": "2 Locations"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -85,7 +106,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Software Engineer",
+      "title": "2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     },
@@ -95,7 +116,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
+      "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
     },
@@ -105,7 +126,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
+      "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     },
@@ -115,7 +136,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Machine Learning Engineer",
+      "title": "2027 Intern - Machine Learning Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS",
       "location": ""
     }
@@ -177,6 +198,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/sacramento/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/sacramento/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -255,7 +281,13 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857": {
+      "title": "Audit & Assurance  –  Intern –  AI and Data Science – Winter 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
+      "location": ""
+    }
+  },
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -281,21 +313,10 @@
       "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
       "url": "https://jobs.sap.com/en/jobs/744000157440020/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
       "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000157438419/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
-      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
-      "url": "https://jobs.sap.com/en/jobs/744000157438419/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
-      "location": ""
     }
   },
   "Siemens": {},
-  "Philips": {
-    "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1": {
-      "title": "Apprentice Trainee (Software Developer Level 1)",
-      "url": "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1",
-      "location": ""
-    }
-  },
+  "Philips": {},
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
@@ -309,9 +330,19 @@
   "Analog Devices": {},
   "HashiCorp": {},
   "MongoDB": {
+    "8209134": {
+      "title": "2027 - Software Engineering Intern, AMER",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "location": "Austin; New York City; Palo Alto; San Francisco; Seattle"
+    },
     "8258279": {
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+      "location": "Dublin"
+    },
+    "8267099": {
+      "title": "2027 - Summer Software Engineer Intern, Dublin",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
       "location": "Dublin"
     }
   },
