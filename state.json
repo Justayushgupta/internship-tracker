@@ -276,9 +276,26 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000157440020/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
+      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
+      "url": "https://jobs.sap.com/en/jobs/744000157440020/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000157438419/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
+      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
+      "url": "https://jobs.sap.com/en/jobs/744000157438419/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
+      "location": ""
+    }
+  },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1": {
+      "title": "Apprentice Trainee (Software Developer Level 1)",
+      "url": "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
