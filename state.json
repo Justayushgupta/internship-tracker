@@ -48,28 +48,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205": {
-      "title": "Software Engineering Intern, AI Automation Infra - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186": {
-      "title": "Software Engineer Intern - NVEX, 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186",
-      "location": "China, Beijing"
-    },
-    "/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298": {
-      "title": "System Software Engineer Intern, Embedded - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784": {
-      "title": "Deep Learning Model and System Optimization Engineering Intern – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
-      "location": "2 Locations"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -106,7 +85,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "2027 Intern - Software Engineer",
+      "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     },
@@ -116,7 +95,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
-      "title": "2027 Intern - Security Engineer",
+      "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
     },
@@ -126,7 +105,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
-      "title": "2027 Intern - Security Engineer",
+      "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     },
@@ -136,7 +115,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS": {
-      "title": "2027 Intern - Machine Learning Engineer",
+      "title": "Apply Now2027 Intern - Machine Learning Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS",
       "location": ""
     }
@@ -200,9 +179,9 @@
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
     },
-    "https://jobs.intuit.com/job/sacramento/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
       "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/sacramento/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -281,13 +260,7 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857": {
-      "title": "Audit & Assurance  –  Intern –  AI and Data Science – Winter 2027",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
-      "location": ""
-    }
-  },
+  "Deloitte": {},
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -309,9 +282,9 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000157440020/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
-      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
-      "url": "https://jobs.sap.com/en/jobs/744000157440020/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
+    "https://jobs.sap.com/en/jobs/744000157542119/sap-ixp-data-engineering-center-intern/": {
+      "title": "SAP iXp- Data Engineering Center Intern",
+      "url": "https://jobs.sap.com/en/jobs/744000157542119/sap-ixp-data-engineering-center-intern/",
       "location": ""
     }
   },
