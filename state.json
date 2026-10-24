@@ -260,7 +260,13 @@
   "Myntra": {},
   "Paytm": {},
   "Pine Labs": {},
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857": {
+      "title": "Audit & Assurance  –  Intern –  AI and Data Science – Winter 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
+      "location": ""
+    }
+  },
   "TCS": {},
   "Infosys": {},
   "Accenture": {},
@@ -306,7 +312,7 @@
     "8209134": {
       "title": "2027 - Software Engineering Intern, AMER",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-      "location": "Austin; New York City; Palo Alto; San Francisco; Seattle"
+      "location": "Austin; New York City; San Francisco"
     },
     "8258279": {
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
