@@ -49,6 +49,11 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642": {
+      "title": "Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642",
+      "location": "US, CA, Santa Clara"
+    },
     "/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209": {
       "title": "Software Engineering Intern, Developer Tools - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
@@ -184,11 +189,6 @@
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
-      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
-      "location": ""
     }
   },
   "Palo Alto Networks": {},
@@ -289,13 +289,7 @@
   "CSIR": {},
   "SAP": {},
   "Siemens": {},
-  "Philips": {
-    "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1": {
-      "title": "Apprentice Trainee (Software Developer Level 1)",
-      "url": "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1",
-      "location": ""
-    }
-  },
+  "Philips": {},
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
@@ -340,14 +334,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
