@@ -48,7 +48,13 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209": {
+      "title": "Software Engineering Intern, Developer Tools - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
+      "location": "France, Courbevoie"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -281,15 +287,15 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000157542119/sap-ixp-data-engineering-center-intern/": {
-      "title": "SAP iXp- Data Engineering Center Intern",
-      "url": "https://jobs.sap.com/en/jobs/744000157542119/sap-ixp-data-engineering-center-intern/",
+  "SAP": {},
+  "Siemens": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1": {
+      "title": "Apprentice Trainee (Software Developer Level 1)",
+      "url": "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1",
       "location": ""
     }
   },
-  "Siemens": {},
-  "Philips": {},
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
