@@ -49,15 +49,15 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512": {
+      "title": "Customer Technical Program Management Intern, OEMs System Partner – Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512",
+      "location": "US, CA, Santa Clara"
+    },
     "/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642": {
       "title": "Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642",
       "location": "US, CA, Santa Clara"
-    },
-    "/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209": {
-      "title": "Software Engineering Intern, Developer Tools - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
-      "location": "France, Courbevoie"
     }
   },
   "Qualcomm": {},
@@ -334,14 +334,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
