@@ -48,28 +48,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299": {
-      "title": "Performance Engineering Intern, Deep Learning and HPC - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711": {
-      "title": "Performance Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711",
-      "location": "China, Shanghai"
-    },
-    "/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384": {
-      "title": "Perf Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384",
-      "location": "China, Shanghai"
-    },
-    "/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517": {
-      "title": "Image and Data Processing Libraries Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517",
-      "location": "Poland, Warsaw"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -198,6 +177,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -350,14 +334,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
