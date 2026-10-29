@@ -48,7 +48,33 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799": {
+      "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+      "location": "US, CA, Santa Clara"
+    },
+    "/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170": {
+      "title": "AI Systems Software Engineering Intern – Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+      "location": "US, TX, Austin"
+    },
+    "/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607": {
+      "title": "Compiler Software Engineering Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+      "location": "US, WA, Redmond"
+    },
+    "/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1": {
+      "title": "Performance Testing Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1",
+      "location": "Armenia, Yerevan"
+    },
+    "/job/Taiwan-Hsinchu/Chip-Level-Defect-Localization-and-Failure-Analysis-Engineer---RDSS-Intern_JR2028296": {
+      "title": "Chip Level Defect Localization and Failure Analysis Engineer - RDSS Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Chip-Level-Defect-Localization-and-Failure-Analysis-Engineer---RDSS-Intern_JR2028296",
+      "location": "Taiwan, Hsinchu"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -177,11 +203,6 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-      "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
-      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -328,14 +349,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
