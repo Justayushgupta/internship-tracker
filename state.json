@@ -63,11 +63,6 @@
       "title": "Compiler Software Engineering Intern - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
       "location": "US, WA, Redmond"
-    },
-    "/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1": {
-      "title": "Performance Testing Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1",
-      "location": "Armenia, Yerevan"
     }
   },
   "Qualcomm": {},
@@ -297,9 +292,26 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000158730290/intern-aiui-developer-associate-timisoara/": {
+      "title": "Intern - AI/UI Developer Associate (Timișoara)",
+      "url": "https://jobs.sap.com/en/jobs/744000158730290/intern-aiui-developer-associate-timisoara/",
+      "location": ""
+    }
+  },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering": {
+      "title": "Intern – Data Science and AI Engineering",
+      "url": "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering",
+      "location": ""
+    },
+    "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1": {
+      "title": "Apprentice Trainee (Software Developer Level 1)",
+      "url": "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
