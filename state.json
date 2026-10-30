@@ -49,15 +49,15 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
-    "/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799": {
-      "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
-      "location": "US, CA, Santa Clara"
-    },
     "/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170": {
       "title": "AI Systems Software Engineering Intern – Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
       "location": "US, TX, Austin"
+    },
+    "/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799": {
+      "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+      "location": "US, CA, Santa Clara"
     },
     "/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607": {
       "title": "Compiler Software Engineering Intern - Summer 2027",
@@ -194,6 +194,11 @@
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
+      "location": ""
     }
   },
   "Palo Alto Networks": {},
@@ -293,25 +298,19 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000158730290/intern-aiui-developer-associate-timisoara/": {
-      "title": "Intern - AI/UI Developer Associate (Timișoara)",
-      "url": "https://jobs.sap.com/en/jobs/744000158730290/intern-aiui-developer-associate-timisoara/",
+    "https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/": {
+      "title": "SAP iXp Intern - AI Product Management",
+      "url": "https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/": {
+      "title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
+      "url": "https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/",
       "location": ""
     }
   },
   "Siemens": {},
-  "Philips": {
-    "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering": {
-      "title": "Intern – Data Science and AI Engineering",
-      "url": "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering",
-      "location": ""
-    },
-    "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1": {
-      "title": "Apprentice Trainee (Software Developer Level 1)",
-      "url": "https://www.careers.philips.com/global/en/job/590732/Apprentice-Trainee-Software-Developer-Level-1",
-      "location": ""
-    }
-  },
+  "Philips": {},
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
