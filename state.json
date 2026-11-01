@@ -78,7 +78,7 @@
   "Google": {},
   "Microsoft": {
     "https://jobs.careers.microsoft.com/careers/job/1970393556922930": {
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 6 hours ago",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 15 hours ago",
       "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922930",
       "location": ""
     }
@@ -183,6 +183,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -340,14 +345,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
