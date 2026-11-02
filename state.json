@@ -77,9 +77,9 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393556922930": {
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, RedmondUnited States, Washington, RedmondPosted 15 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556922930",
+    "https://jobs.careers.microsoft.com/careers/job/1970393556925823": {
+      "title": "Explore Program Engineering Internship Opportunities: First-Year Students, RedmondUnited States, Washington, RedmondPosted an hour ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556925823",
       "location": ""
     }
   },
@@ -169,7 +169,13 @@
     }
   },
   "Dell Technologies": {},
-  "HPE": {},
+  "HPE": {
+    "https://careers.hpe.com/us/en/job/1214036/VLSI-Engineer-Internship": {
+      "title": "VLSI Engineer Internship",
+      "url": "https://careers.hpe.com/us/en/job/1214036/VLSI-Engineer-Internship",
+      "location": ""
+    }
+  },
   "ServiceNow": {},
   "Walmart Global Tech": {},
   "Goldman Sachs": {},
@@ -288,6 +294,11 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
+    "https://jobs.sap.com/en/jobs/744000159038469/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
+      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
+      "url": "https://jobs.sap.com/en/jobs/744000159038469/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
+      "location": ""
+    },
     "https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/": {
       "title": "SAP iXp Intern - AI Product Management",
       "url": "https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/",
