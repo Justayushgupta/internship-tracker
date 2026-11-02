@@ -76,13 +76,7 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393556925823": {
-      "title": "Explore Program Engineering Internship Opportunities: First-Year Students, RedmondUnited States, Washington, RedmondPosted an hour ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393556925823",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -190,11 +184,6 @@
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
-      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
-      "location": ""
     }
   },
   "Palo Alto Networks": {},
@@ -294,19 +283,9 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000159038469/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/": {
-      "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates",
-      "url": "https://jobs.sap.com/en/jobs/744000159038469/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/",
-      "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/": {
-      "title": "SAP iXp Intern - AI Product Management",
-      "url": "https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/",
-      "location": ""
-    },
-    "https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/": {
-      "title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
-      "url": "https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/",
+    "https://jobs.sap.com/en/jobs/744000159154348/sap-concur-ixp-intern-data-strategy/": {
+      "title": "SAP Concur iXp Intern - Data Strategy",
+      "url": "https://jobs.sap.com/en/jobs/744000159154348/sap-concur-ixp-intern-data-strategy/",
       "location": ""
     }
   },
