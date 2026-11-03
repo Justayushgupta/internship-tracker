@@ -89,16 +89,6 @@
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     },
-    "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer": {
-      "title": "2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
       "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
@@ -107,6 +97,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer": {
+      "title": "2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
     },
     "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer": {
@@ -163,13 +163,7 @@
     }
   },
   "Dell Technologies": {},
-  "HPE": {
-    "https://careers.hpe.com/us/en/job/1214036/VLSI-Engineer-Internship": {
-      "title": "VLSI Engineer Internship",
-      "url": "https://careers.hpe.com/us/en/job/1214036/VLSI-Engineer-Internship",
-      "location": ""
-    }
-  },
+  "HPE": {},
   "ServiceNow": {},
   "Walmart Global Tech": {},
   "Goldman Sachs": {},
@@ -283,9 +277,9 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000159154348/sap-concur-ixp-intern-data-strategy/": {
-      "title": "SAP Concur iXp Intern - Data Strategy",
-      "url": "https://jobs.sap.com/en/jobs/744000159154348/sap-concur-ixp-intern-data-strategy/",
+    "https://jobs.sap.com/en/jobs/744000159206645/sap-ixp-intern-data-analytics/": {
+      "title": "SAP iXp Intern - Data Analytics",
+      "url": "https://jobs.sap.com/en/jobs/744000159206645/sap-ixp-intern-data-analytics/",
       "location": ""
     }
   },
@@ -335,14 +329,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245197": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-      "location": "In-Office"
-    },
     "8245211": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+      "location": "In-Office"
+    },
+    "8245197": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
     "8199958": {
