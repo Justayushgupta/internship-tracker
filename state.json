@@ -48,7 +48,23 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069": {
+      "title": "AI Compiler Intern, CUDA Tile IR - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069",
+      "location": "Switzerland, Zurich"
+    },
+    "/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184": {
+      "title": "Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
+      "location": "Germany, Munich"
+    },
+    "/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1": {
+      "title": "AI Compiler and Kernel Intern – Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+      "location": "US, TX, Austin"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -178,6 +194,11 @@
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
+      "location": ""
     }
   },
   "Palo Alto Networks": {},
@@ -276,13 +297,7 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {
-    "https://jobs.sap.com/en/jobs/744000159206645/sap-ixp-intern-data-analytics/": {
-      "title": "SAP iXp Intern - Data Analytics",
-      "url": "https://jobs.sap.com/en/jobs/744000159206645/sap-ixp-intern-data-analytics/",
-      "location": ""
-    }
-  },
+  "SAP": {},
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
@@ -329,14 +344,14 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     },
     "8199958": {
