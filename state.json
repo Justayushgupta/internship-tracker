@@ -48,23 +48,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069": {
-      "title": "AI Compiler Intern, CUDA Tile IR - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069",
-      "location": "Switzerland, Zurich"
-    },
-    "/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184": {
-      "title": "Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
-      "location": "Germany, Munich"
-    },
-    "/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1": {
-      "title": "AI Compiler and Kernel Intern – Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
-      "location": "US, TX, Austin"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
