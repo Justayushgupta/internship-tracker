@@ -49,20 +49,15 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/US-CA-Santa-Clara/Technical-Learning-Content-Development-Intern--Physical-AI---Summer-2027_JR2028148": {
+      "title": "Technical Learning Content Development Intern, Physical AI — Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Technical-Learning-Content-Development-Intern--Physical-AI---Summer-2027_JR2028148",
+      "location": "US, CA, Santa Clara"
+    },
     "/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066": {
       "title": "Software Engineering Intern, Physics Simulation - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066",
       "location": "Switzerland, Zurich"
-    },
-    "/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548": {
-      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
-      "location": "US, CA, Santa Clara"
-    },
-    "/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184": {
-      "title": "Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
-      "location": "Germany, Munich"
     }
   },
   "Qualcomm": {},
@@ -297,7 +292,13 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000159939386/sap-customer-success-ixp-intern-sap-innovation-experience-customer-engagement-support-ai-lab/": {
+      "title": "SAP Customer Success iXp Intern – SAP Innovation Experience Customer Engagement Support AI Lab",
+      "url": "https://jobs.sap.com/en/jobs/744000159939386/sap-customer-success-ixp-intern-sap-innovation-experience-customer-engagement-support-ai-lab/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
