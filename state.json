@@ -49,20 +49,25 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468": {
+      "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468",
+      "location": "China, Shanghai"
+    },
+    "/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172": {
+      "title": "System Software Engineer Intern, Autonomous Vehicles - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172",
+      "location": "2 Locations"
+    },
+    "/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135": {
+      "title": "System Software Engineer Intern - Autonomous Vehicles – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135",
+      "location": "China, Shanghai"
+    },
     "/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153": {
       "title": "System Software Intern, Embedded Power Management - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153",
       "location": "Taiwan, Taipei"
-    },
-    "/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": {
-      "title": "AI Developer Technology Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
-      "location": "3 Locations"
-    },
-    "/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260": {
-      "title": "Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
-      "location": "3 Locations"
     }
   },
   "Qualcomm": {},
@@ -194,6 +199,11 @@
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
+      "location": ""
     }
   },
   "Palo Alto Networks": {},
@@ -293,9 +303,9 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000159990859/sap-ixp-intern-solution-support-engineer-analytics/": {
-      "title": "SAP IXp Intern - Solution Support Engineer - Analytics",
-      "url": "https://jobs.sap.com/en/jobs/744000159990859/sap-ixp-intern-solution-support-engineer-analytics/",
+    "https://jobs.sap.com/en/jobs/744000160236955/sap-labs-ixp-intern-software-developer/": {
+      "title": "SAP Labs iXp Intern - Software Developer",
+      "url": "https://jobs.sap.com/en/jobs/744000160236955/sap-labs-ixp-intern-software-developer/",
       "location": ""
     }
   },
