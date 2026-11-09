@@ -85,7 +85,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Software Engineer",
+      "title": "2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     },
@@ -95,7 +95,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
+      "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     },
@@ -105,7 +105,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
+      "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
     },
@@ -115,7 +115,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Machine Learning Engineer",
+      "title": "2027 Intern - Machine Learning Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS",
       "location": ""
     }
@@ -177,6 +177,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -328,14 +333,14 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
       "location": "In-Office"
     },
-    "8245211": {
-      "title": "Software Engineer Intern (2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-      "location": "In-Office"
-    },
     "8199958": {
       "title": "Software Engineer Intern (2027) - Austin, TX",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+      "location": "In-Office"
+    },
+    "8245211": {
+      "title": "Software Engineer Intern (2027) - London, UK",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
       "location": "In-Office"
     }
   },
