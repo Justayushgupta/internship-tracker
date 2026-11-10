@@ -48,7 +48,13 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1": {
+      "title": "AI Operations Intern, AI Clouds - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+      "location": "US, CA, Santa Clara"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -85,7 +91,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "2027 Intern - Software Engineer",
+      "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     },
@@ -95,7 +101,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
-      "title": "2027 Intern - Security Engineer",
+      "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     },
@@ -105,7 +111,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
-      "title": "2027 Intern - Security Engineer",
+      "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
     },
@@ -115,7 +121,7 @@
       "location": ""
     },
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS": {
-      "title": "2027 Intern - Machine Learning Engineer",
+      "title": "Apply Now2027 Intern - Machine Learning Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS",
       "location": ""
     }
@@ -177,6 +183,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -276,7 +287,23 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000160877441/sap-ixp-intern-pc-data-management-associate-limited-part-time/": {
+      "title": "SAP iXp Intern - P&C Data Management Associate (limited part-time)",
+      "url": "https://jobs.sap.com/en/jobs/744000160877441/sap-ixp-intern-pc-data-management-associate-limited-part-time/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000160865649/sap-ixp-intern-developer-in-cloud-lifecycle-engeneering/": {
+      "title": "SAP iXP Intern Developer in Cloud Lifecycle Engeneering",
+      "url": "https://jobs.sap.com/en/jobs/744000160865649/sap-ixp-intern-developer-in-cloud-lifecycle-engeneering/",
+      "location": ""
+    },
+    "https://jobs.sap.com/en/jobs/744000160813099/sap-china-ixp-intern-hana-cloud-microservice-developer-xian/": {
+      "title": "SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an",
+      "url": "https://jobs.sap.com/en/jobs/744000160813099/sap-china-ixp-intern-hana-cloud-microservice-developer-xian/",
+      "location": ""
+    }
+  },
   "Siemens": {},
   "Philips": {},
   "Schneider Electric": {},
