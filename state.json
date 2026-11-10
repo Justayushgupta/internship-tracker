@@ -49,6 +49,11 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541": {
+      "title": "Performance Engineering Intern, Platform Performance and Power -  Spring 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+      "location": "US, CA, Santa Clara"
+    },
     "/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1": {
       "title": "AI Operations Intern, AI Clouds - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
@@ -184,11 +189,6 @@
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
       "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
-      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
-      "location": ""
     }
   },
   "Palo Alto Networks": {},
@@ -288,19 +288,19 @@
   "BARC": {},
   "CSIR": {},
   "SAP": {
-    "https://jobs.sap.com/en/jobs/744000160877441/sap-ixp-intern-pc-data-management-associate-limited-part-time/": {
-      "title": "SAP iXp Intern - P&C Data Management Associate (limited part-time)",
-      "url": "https://jobs.sap.com/en/jobs/744000160877441/sap-ixp-intern-pc-data-management-associate-limited-part-time/",
+    "https://jobs.sap.com/en/jobs/744000160974349/sap-ixp-intern-technical-support/": {
+      "title": "SAP iXp Intern - Technical Support",
+      "url": "https://jobs.sap.com/en/jobs/744000160974349/sap-ixp-intern-technical-support/",
       "location": ""
     },
-    "https://jobs.sap.com/en/jobs/744000160865649/sap-ixp-intern-developer-in-cloud-lifecycle-engeneering/": {
-      "title": "SAP iXP Intern Developer in Cloud Lifecycle Engeneering",
-      "url": "https://jobs.sap.com/en/jobs/744000160865649/sap-ixp-intern-developer-in-cloud-lifecycle-engeneering/",
+    "https://jobs.sap.com/en/jobs/744000160967354/sap-ixp-intern-full-stack-software-engineer/": {
+      "title": "SAP iXp Intern - Full-Stack Software Engineer",
+      "url": "https://jobs.sap.com/en/jobs/744000160967354/sap-ixp-intern-full-stack-software-engineer/",
       "location": ""
     },
-    "https://jobs.sap.com/en/jobs/744000160813099/sap-china-ixp-intern-hana-cloud-microservice-developer-xian/": {
-      "title": "SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an",
-      "url": "https://jobs.sap.com/en/jobs/744000160813099/sap-china-ixp-intern-hana-cloud-microservice-developer-xian/",
+    "https://jobs.sap.com/en/jobs/744000160955034/sap-ixp-intern-concur-travel-core-ai-software-developer/": {
+      "title": "SAP iXp Intern – Concur Travel Core & AI Software Developer",
+      "url": "https://jobs.sap.com/en/jobs/744000160955034/sap-ixp-intern-concur-travel-core-ai-software-developer/",
       "location": ""
     }
   },
