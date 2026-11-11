@@ -49,6 +49,21 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
+    "/job/Taiwan-Taipei/Technical-Program-Manager--Deep-Learning-Enterprise-Server-Software--RDSS-Intern-_JR2029595": {
+      "title": "Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Taipei/Technical-Program-Manager--Deep-Learning-Enterprise-Server-Software--RDSS-Intern-_JR2029595",
+      "location": "Taiwan, Taipei"
+    },
+    "/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575": {
+      "title": "Developer Technology Engineer Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
+      "location": "Japan, Tokyo"
+    },
+    "/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780": {
+      "title": "System Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
+      "location": "Finland, Helsinki"
+    },
     "/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541": {
       "title": "Performance Engineering Intern, Platform Performance and Power -  Spring 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
@@ -119,16 +134,6 @@
       "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
-    },
-    "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer": {
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Machine Learning Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS",
-      "location": ""
     }
   },
   "Salesforce": {},
@@ -188,6 +193,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
