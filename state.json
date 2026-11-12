@@ -63,11 +63,6 @@
       "title": "System Software Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
       "location": "Finland, Helsinki"
-    },
-    "/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541": {
-      "title": "Performance Engineering Intern, Platform Performance and Power -  Spring 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
-      "location": "US, CA, Santa Clara"
     }
   },
   "Qualcomm": {},
@@ -129,16 +124,6 @@
       "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
-    },
-    "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer": {
-      "title": "2027 Intern - Machine Learning Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Machine Learning Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS",
-      "location": ""
     }
   },
   "Salesforce": {},
@@ -184,8 +169,35 @@
     }
   },
   "Dell Technologies": {},
-  "HPE": {},
-  "ServiceNow": {},
+  "HPE": {
+    "https://careers.hpe.com/us/en/job/1191423/Ph-D-Research-Intern-AI-Research-Lab": {
+      "title": "Ph D/Research Intern - AI Research Lab",
+      "url": "https://careers.hpe.com/us/en/job/1191423/Ph-D-Research-Intern-AI-Research-Lab",
+      "location": ""
+    }
+  },
+  "ServiceNow": {
+    "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
+      "title": "Assoc Detection Engineering Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
+      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
+      "title": "Assoc Security Engineering & Automation Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/": {
+      "title": "Assoc Information Security Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/",
+      "location": ""
+    }
+  },
   "Walmart Global Tech": {},
   "Goldman Sachs": {},
   "Morgan Stanley": {},
@@ -198,11 +210,6 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-      "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
-      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
