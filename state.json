@@ -48,7 +48,18 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488": {
+      "title": "Software Engineering Intern, NCCL - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488",
+      "location": "2 Locations"
+    },
+    "/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925": {
+      "title": "Software Engineering Intern, Neural Reconstruction and Rendering - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925",
+      "location": "China, Shanghai"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -76,7 +87,13 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393557055941?q=intern&lc=India": {
+      "title": "Data Center Technicians (DCT) INTERN/ Logistics Technician Intern (DIAT) INTERNJapan, Tokyo-to, TokyoPosted 42 minutes ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557055941?q=intern&lc=India",
+      "location": ""
+    }
+  },
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -97,16 +114,6 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer": {
-      "title": "2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
       "location": ""
     }
   },
@@ -194,6 +201,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
