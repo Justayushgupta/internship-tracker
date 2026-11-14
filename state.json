@@ -88,24 +88,14 @@
   "Deel": {},
   "Google": {},
   "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393557073455?q=intern&lc=India": {
-      "title": "Research Intern - MSR Software-Hardware Co-designUnited States, Washington, RedmondPosted 2 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557073455?q=intern&lc=India",
+    "https://jobs.careers.microsoft.com/careers/job/1970393557037859?q=intern&lc=India": {
+      "title": "Software Engineer, Teamwork Experiences Internship OpportunitiesUnited States, Washington, RedmondPosted 10 days ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557037859?q=intern&lc=India",
       "location": ""
     }
   },
   "Amazon": {},
   "Adobe": {
-    "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
-      "title": "2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
@@ -114,6 +104,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
+      "title": "2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     },
     "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer": {
@@ -193,14 +193,24 @@
       "url": "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
-      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
+    "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/": {
+      "title": "Security Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
+      "title": "AI Identity Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
       "title": "Assoc Security Engineering & Automation Intern",
       "url": "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
+      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/": {
