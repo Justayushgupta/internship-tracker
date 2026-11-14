@@ -87,13 +87,7 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393557037859?q=intern&lc=India": {
-      "title": "Software Engineer, Teamwork Experiences Internship OpportunitiesUnited States, Washington, RedmondPosted 10 days ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557037859?q=intern&lc=India",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -178,9 +172,9 @@
     }
   },
   "ServiceNow": {
-    "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
-      "title": "Assoc Detection Engineering Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
+    "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/": {
+      "title": "AI Security Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161548528/security-engineering-automation-intern/": {
@@ -188,9 +182,9 @@
       "url": "https://careers.servicenow.com/jobs/744000161548528/security-engineering-automation-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/": {
-      "title": "AI Security Engineer Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/",
+    "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
+      "title": "Assoc Detection Engineering Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/": {
@@ -203,14 +197,14 @@
       "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
-      "title": "Assoc Security Engineering & Automation Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
       "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
       "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
+      "title": "Assoc Security Engineering & Automation Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/": {
@@ -231,11 +225,6 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-      "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
-      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
