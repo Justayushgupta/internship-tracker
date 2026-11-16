@@ -48,7 +48,13 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {},
+  "NVIDIA": {
+    "/job/Taiwan-Hsinchu/Product-Engineer---Board--RDSS-Intern-_JR2024272": {
+      "title": "Product Engineer - Board (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Product-Engineer---Board--RDSS-Intern-_JR2024272",
+      "location": "Taiwan, Hsinchu"
+    }
+  },
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -79,16 +85,6 @@
   "Microsoft": {},
   "Amazon": {},
   "Adobe": {
-    "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
-      "title": "2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
@@ -97,6 +93,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
+      "title": "2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     },
     "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer": {
@@ -331,7 +337,13 @@
     }
   },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/590165/Apprentice-Software-Developer-Trainee": {
+      "title": "Apprentice Software Developer Trainee",
+      "url": "https://www.careers.philips.com/global/en/job/590165/Apprentice-Software-Developer-Trainee",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
