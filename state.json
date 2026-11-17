@@ -104,16 +104,6 @@
       "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
-    },
-    "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer": {
-      "title": "2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
-      "location": ""
     }
   },
   "Salesforce": {},
@@ -182,14 +172,14 @@
       "url": "https://careers.servicenow.com/jobs/744000161548528/security-engineering-automation-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
-      "title": "Assoc Detection Engineering Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/": {
       "title": "Security Engineer Intern",
       "url": "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
+      "title": "Assoc Detection Engineering Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
