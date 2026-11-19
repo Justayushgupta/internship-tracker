@@ -112,6 +112,11 @@
   "IBM": {},
   "Uber": {},
   "Atlassian": {
+    "https://www.atlassian.com/company/careers/details/27435": {
+      "title": "AI Buyer Journey Marketing Intern (GDC AI Lab), 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/27435",
+      "location": ""
+    },
     "https://www.atlassian.com/company/careers/details/26843": {
       "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
       "url": "https://www.atlassian.com/company/careers/details/26843",
@@ -167,19 +172,14 @@
       "url": "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
-      "title": "AI Identity Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
       "title": "Assoc Detection Engineering Intern",
       "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
-      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
+    "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
+      "title": "AI Identity Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
@@ -190,6 +190,11 @@
     "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/": {
       "title": "Assoc Information Security Engineer Intern",
       "url": "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
+      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
       "location": ""
     }
   },
@@ -317,7 +322,13 @@
     }
   },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering": {
+      "title": "Intern – Data Science and AI Engineering",
+      "url": "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
