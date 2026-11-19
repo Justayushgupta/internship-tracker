@@ -85,16 +85,6 @@
   "Microsoft": {},
   "Amazon": {},
   "Adobe": {
-    "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
-      "title": "2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
       "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
@@ -103,6 +93,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
+      "title": "2027 Intern - Software Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Software Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     }
   },
@@ -157,6 +157,16 @@
     }
   },
   "ServiceNow": {
+    "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/": {
+      "title": "Associate Accessibility Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
+      "title": "Assoc Detection Engineering Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
+      "location": ""
+    },
     "https://careers.servicenow.com/jobs/744000161936128/associate-forward-deployed-solution-engineer-intern-bachelors-summer-2027/": {
       "title": "Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)",
       "url": "https://careers.servicenow.com/jobs/744000161936128/associate-forward-deployed-solution-engineer-intern-bachelors-summer-2027/",
@@ -172,14 +182,14 @@
       "url": "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
-      "title": "Assoc Detection Engineering Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
       "title": "AI Identity Intern",
       "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
+      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
@@ -190,11 +200,6 @@
     "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/": {
       "title": "Assoc Information Security Engineer Intern",
       "url": "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/",
-      "location": ""
-    },
-    "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
-      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
       "location": ""
     }
   },
@@ -322,13 +327,7 @@
     }
   },
   "Siemens": {},
-  "Philips": {
-    "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering": {
-      "title": "Intern – Data Science and AI Engineering",
-      "url": "https://www.careers.philips.com/global/en/job/590723/Intern-Data-Science-and-AI-Engineering",
-      "location": ""
-    }
-  },
+  "Philips": {},
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
@@ -342,6 +341,11 @@
   "Analog Devices": {},
   "HashiCorp": {},
   "MongoDB": {
+    "8346138": {
+      "title": "2027 - AI and People Transformation Intern, NYC",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
+      "location": "New York City"
+    },
     "8209134": {
       "title": "2027 - Software Engineering Intern, AMER",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
