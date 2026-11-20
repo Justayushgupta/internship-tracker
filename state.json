@@ -85,16 +85,6 @@
   "Microsoft": {},
   "Amazon": {},
   "Adobe": {
-    "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
-      "title": "2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
       "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
@@ -103,6 +93,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
+      "title": "2027 Intern - Software Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Software Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     }
   },
@@ -251,7 +251,13 @@
   "Uniphore": {},
   "Sprinklr": {},
   "Gupshup": {},
-  "Exotel": {},
+  "Exotel": {
+    "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern": {
+      "title": "Sales Engineer Intern",
+      "url": "https://exotel.com/about-us/careers/#op-695617-sales-engineer-intern",
+      "location": ""
+    }
+  },
   "Locus": {},
   "Shiprocket": {},
   "Porter": {},
