@@ -162,6 +162,11 @@
       "url": "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/",
       "location": ""
     },
+    "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/": {
+      "title": "Security Software Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/",
+      "location": ""
+    },
     "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/": {
       "title": "Assoc Detection Engineering Intern",
       "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
@@ -182,24 +187,19 @@
       "url": "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
-      "title": "AI Identity Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/": {
       "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
       "url": "https://careers.servicenow.com/jobs/744000161209600/assoc-ai-engineering-cloud-security-automation-intern/",
       "location": ""
     },
+    "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
+      "title": "AI Identity Intern",
+      "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
+      "location": ""
+    },
     "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
       "title": "Assoc Security Engineering & Automation Intern",
       "url": "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/",
-      "location": ""
-    },
-    "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/": {
-      "title": "Assoc Information Security Engineer Intern",
-      "url": "https://careers.servicenow.com/jobs/744000161204235/assoc-information-security-engineer-intern/",
       "location": ""
     }
   },
@@ -383,11 +383,6 @@
   "HubSpot": {},
   "DigitalOcean": {},
   "Cloudflare": {
-    "8394342": {
-      "title": "AI & Automation Intern, Communications (Winter 2027)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342",
-      "location": "In-Office"
-    },
     "8245197": {
       "title": "Software Engineer Intern (2027)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
