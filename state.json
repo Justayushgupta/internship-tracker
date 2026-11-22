@@ -49,10 +49,20 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
-    "/job/Taiwan-Hsinchu/Product-Engineer---Board--RDSS-Intern-_JR2024272": {
-      "title": "Product Engineer - Board (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Taiwan-Hsinchu/Product-Engineer---Board--RDSS-Intern-_JR2024272",
-      "location": "Taiwan, Hsinchu"
+    "/job/Germany-Munich/Software-Engineering-Intern_JR2029967": {
+      "title": "Software Engineering Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Software-Engineering-Intern_JR2029967",
+      "location": "Germany, Munich"
+    },
+    "/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1": {
+      "title": "Accounting AI Solution Engineer Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+      "location": "US, CA, Santa Clara"
+    },
+    "/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793": {
+      "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+      "location": "US, CA, Santa Clara"
     }
   },
   "Qualcomm": {},
@@ -85,16 +95,6 @@
   "Microsoft": {},
   "Amazon": {},
   "Adobe": {
-    "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
-      "title": "2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
       "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
@@ -103,6 +103,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
+      "title": "2027 Intern - Software Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Software Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
       "location": ""
     }
   },
