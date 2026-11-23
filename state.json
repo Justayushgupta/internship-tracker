@@ -95,16 +95,6 @@
   "Microsoft": {},
   "Amazon": {},
   "Adobe": {
-    "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
-      "title": "2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Security Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
       "title": "2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
@@ -113,6 +103,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
+      "title": "2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     }
   },
@@ -347,8 +347,20 @@
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
-  "3M": {},
-  "Micron Technology": {},
+  "3M": {
+    "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Process-Engineer-Intern_R01174375?q=intern+india": {
+      "title": "Internship - 2027 Undergraduate Process Engineer Intern",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Process-Engineer-Intern_R01174375?q=intern+india",
+      "location": ""
+    }
+  },
+  "Micron Technology": {
+    "https://micron.eightfold.ai/careers/job/44853670": {
+      "title": "Intern - IT Software EngineerBoise, Idaho, United States of AmericaPosted a month ago",
+      "url": "https://micron.eightfold.ai/careers/job/44853670",
+      "location": ""
+    }
+  },
   "Western Digital": {},
   "Synopsys": {},
   "Cadence Design Systems": {},
