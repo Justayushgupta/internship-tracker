@@ -49,20 +49,10 @@
   "Netflix": {},
   "Cohere": {},
   "NVIDIA": {
-    "/job/Germany-Munich/Software-Engineering-Intern_JR2029967": {
-      "title": "Software Engineering Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Software-Engineering-Intern_JR2029967",
-      "location": "Germany, Munich"
-    },
-    "/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1": {
-      "title": "Accounting AI Solution Engineer Intern - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
-      "location": "US, CA, Santa Clara"
-    },
-    "/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793": {
-      "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
-      "location": "US, CA, Santa Clara"
+    "/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1": {
+      "title": "AI Compiler and Kernel Intern – Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+      "location": "US, TX, Austin"
     }
   },
   "Qualcomm": {},
@@ -92,30 +82,9 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {
-    "https://jobs.careers.microsoft.com/careers/job/1970393557055941?q=intern&lc=India": {
-      "title": "Data Center Technicians (DCT) INTERN/ Logistics Technician Intern (DIAT) INTERNJapan, Tokyo-to, TokyoPosted an hour ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557055941?q=intern&lc=India",
-      "location": ""
-    },
-    "https://jobs.careers.microsoft.com/careers/job/1970393557097217?q=intern&lc=India": {
-      "title": "Research Intern - Machine Learning for Biology and HealthcareUnited States, Washington, RedmondPosted 8 hours ago",
-      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557097217?q=intern&lc=India",
-      "location": ""
-    }
-  },
+  "Microsoft": {},
   "Amazon": {},
   "Adobe": {
-    "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
-      "title": "2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
-      "location": ""
-    },
-    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
-      "title": "Apply Now2027 Intern - Software Engineer",
-      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
-      "location": ""
-    },
     "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
       "title": "2027 Intern - Security Engineer",
       "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
@@ -183,14 +152,14 @@
       "url": "https://careers.servicenow.com/jobs/744000161210069/assoc-detection-engineering-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/": {
-      "title": "Associate Accessibility Engineer Intern",
-      "url": "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/": {
       "title": "AI Security Engineer Intern",
       "url": "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/": {
+      "title": "Associate Accessibility Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/": {
@@ -236,6 +205,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
@@ -341,9 +315,21 @@
   "CDAC": {},
   "BARC": {},
   "CSIR": {},
-  "SAP": {},
+  "SAP": {
+    "https://jobs.sap.com/en/jobs/744000163918509/sap-ixp-intern-order-to-invoice-cloud-software-support/": {
+      "title": "SAP iXp Intern – Order to Invoice Cloud, Software & Support",
+      "url": "https://jobs.sap.com/en/jobs/744000163918509/sap-ixp-intern-order-to-invoice-cloud-software-support/",
+      "location": ""
+    }
+  },
   "Siemens": {},
-  "Philips": {},
+  "Philips": {
+    "https://www.careers.philips.com/global/en/job/596114/Software-Intern": {
+      "title": "Software Intern",
+      "url": "https://www.careers.philips.com/global/en/job/596114/Software-Intern",
+      "location": ""
+    }
+  },
   "Schneider Electric": {},
   "Honeywell": {},
   "GE": {},
