@@ -92,7 +92,18 @@
   },
   "Deel": {},
   "Google": {},
-  "Microsoft": {},
+  "Microsoft": {
+    "https://jobs.careers.microsoft.com/careers/job/1970393557055941?q=intern&lc=India": {
+      "title": "Data Center Technicians (DCT) INTERN/ Logistics Technician Intern (DIAT) INTERNJapan, Tokyo-to, TokyoPosted an hour ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557055941?q=intern&lc=India",
+      "location": ""
+    },
+    "https://jobs.careers.microsoft.com/careers/job/1970393557097217?q=intern&lc=India": {
+      "title": "Research Intern - Machine Learning for Biology and HealthcareUnited States, Washington, RedmondPosted 8 hours ago",
+      "url": "https://jobs.careers.microsoft.com/careers/job/1970393557097217?q=intern&lc=India",
+      "location": ""
+    }
+  },
   "Amazon": {},
   "Adobe": {
     "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer": {
@@ -177,14 +188,14 @@
       "url": "https://careers.servicenow.com/jobs/744000162586889/associate-accessibility-engineer-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/": {
-      "title": "Security Software Engineer Intern",
-      "url": "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/": {
       "title": "AI Security Engineer Intern",
       "url": "https://careers.servicenow.com/jobs/744000161548289/ai-security-engineer-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/": {
+      "title": "Security Software Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/": {
@@ -225,11 +236,6 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-      "location": ""
-    },
-    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
-      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
