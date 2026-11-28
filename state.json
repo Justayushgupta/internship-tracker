@@ -48,13 +48,7 @@
   "Notion": {},
   "Netflix": {},
   "Cohere": {},
-  "NVIDIA": {
-    "/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1": {
-      "title": "AI Compiler and Kernel Intern – Summer 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
-      "location": "US, TX, Austin"
-    }
-  },
+  "NVIDIA": {},
   "Qualcomm": {},
   "Linear": {},
   "Vercel": {},
@@ -84,7 +78,7 @@
   "Google": {},
   "Microsoft": {
     "https://jobs.careers.microsoft.com/careers/job/1970393557106762?q=intern&lc=India": {
-      "title": "Cambridge Research Intern - Distributed AI systems for agentic workflowsUnited Kingdom, Cambridgeshire, CambridgePosted 4 hours ago",
+      "title": "Cambridge Research Intern - Distributed AI systems for agentic workflowsUnited Kingdom, Cambridgeshire, CambridgePosted 14 hours ago",
       "url": "https://jobs.careers.microsoft.com/careers/job/1970393557106762?q=intern&lc=India",
       "location": ""
     }
@@ -99,6 +93,16 @@
     "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS": {
       "title": "Apply Now2027 Intern - Software Engineer",
       "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer": {
+      "title": "2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R173001/2027-Intern-Security-Engineer",
+      "location": ""
+    },
+    "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS": {
+      "title": "Apply Now2027 Intern - Security Engineer",
+      "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173001EXTERNALENUS",
       "location": ""
     }
   },
@@ -173,14 +177,14 @@
       "url": "https://careers.servicenow.com/jobs/744000161592679/security-engineer-intern/",
       "location": ""
     },
-    "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/": {
-      "title": "Security Software Engineer Intern",
-      "url": "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/",
-      "location": ""
-    },
     "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/": {
       "title": "AI Identity Intern",
       "url": "https://careers.servicenow.com/jobs/744000161594249/ai-identity-intern/",
+      "location": ""
+    },
+    "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/": {
+      "title": "Security Software Engineer Intern",
+      "url": "https://careers.servicenow.com/jobs/744000162827365/security-software-engineer-intern/",
       "location": ""
     },
     "https://careers.servicenow.com/jobs/744000161209810/assoc-security-engineering-automation-intern/": {
@@ -211,6 +215,11 @@
     "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": {
       "title": "Summer 2027: Software Engineering Intern - CybersecurityMountain View, California",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "location": ""
+    },
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552": {
+      "title": "Summer 2027: Marketing Intern, AI Tooling for Marketing EfficiencyMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552",
       "location": ""
     }
   },
